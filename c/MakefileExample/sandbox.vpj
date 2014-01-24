@@ -1,0 +1,70 @@
+<!DOCTYPE Project SYSTEM "http://www.slickedit.com/dtd/vse/10.0/vpj.dtd">
+<Project
+  Version="10.0"
+  VendorName="SlickEdit"
+  WorkingDir=".">
+  <Config
+    Name="Release"
+    Type="Makefile"
+    OutputFile=""
+    CompilerConfigName="">
+    <Menu>
+      <Target
+        Name="Make"
+        MenuCaption="&amp;Make"
+        CaptureOutputWith="ProcessBuffer"
+        SaveOption="SaveCurrent"
+        RunFromDir="%rw">
+        <Exec CmdLine="make"/>
+      </Target>
+      <Target
+        Name="Compile"
+        MenuCaption="&amp;Compile"
+        CaptureOutputWith="ProcessBuffer"
+        SaveOption="SaveCurrent"
+        RunFromDir="%rw">
+        <Exec/>
+      </Target>
+      <Target
+        Name="Build"
+        MenuCaption="&amp;Build"
+        CaptureOutputWith="ProcessBuffer"
+        SaveOption="SaveWorkspaceFiles"
+        RunFromDir="%rw">
+        <Exec/>
+      </Target>
+      <Target
+        Name="Rebuild"
+        MenuCaption="&amp;Rebuild"
+        CaptureOutputWith="ProcessBuffer"
+        SaveOption="SaveWorkspaceFiles"
+        RunFromDir="%rw">
+        <Exec/>
+      </Target>
+      <Target
+        Name="Debug"
+        MenuCaption="&amp;Debug"
+        SaveOption="SaveNone"
+        RunFromDir="%rw">
+        <Exec/>
+      </Target>
+      <Target
+        Name="Execute"
+        MenuCaption="E&amp;xecute"
+        SaveOption="SaveNone"
+        RunFromDir="%rw">
+        <Exec CmdLine='".exe"'/>
+      </Target>
+    </Menu>
+  </Config>
+  <Files>
+    <F N="src/dir1/file1.c"/>
+    <F N="src/dir1/file1.h"/>
+    <F N="src/dir2/file2.c"/>
+    <F N="src/dir2/file2.h"/>
+    <F N="src/main.c"/>
+    <F
+      N="Makefile"
+      Type="Makefile"/>
+  </Files>
+</Project>
