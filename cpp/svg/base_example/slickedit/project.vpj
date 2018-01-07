@@ -1,0 +1,126 @@
+<!DOCTYPE Project SYSTEM "http://www.slickedit.com/dtd/vse/10.0/vpj.dtd">
+<Project
+   Version="10.0"
+   VendorName="SlickEdit"
+   WorkingDir=".."
+   BuildMakeFile=""
+   VCSProject="Subversion:"
+   BuildSystem="">
+   <Config
+      Name="Base"
+      Type="gnuc"
+      DebugCallbackName="gdb"
+      Version="1"
+      OutputFile="svg.exe"
+      CompilerConfigName="Latest Version"
+      ObjectDir="..">
+      <Menu>
+         <Target
+            Name="Compile"
+            MenuCaption="&amp;Compile"
+            Dialog="_gnuc_options_form Compile"
+            CaptureOutputWith="ProcessBuffer"
+            Deletable="0"
+            OutputExts="*.o"
+            SaveOption="SaveCurrent"
+            RunFromDir="%bd">
+            <Exec CmdLine='gcc -c %xup  %defd -g -o "%bd%n%oe" %i "%f"'/>
+         </Target>
+         <Target
+            Name="Link"
+            MenuCaption="&amp;Link"
+            ShowOnMenu="Never"
+            Dialog="_gnuc_options_form Link"
+            CaptureOutputWith="ProcessBuffer"
+            Deletable="0"
+            SaveOption="SaveCurrent"
+            RunFromDir="%bd">
+            <Exec CmdLine='gcc %xup -g -o "%o" %f %libs'/>
+         </Target>
+         <Target
+            Name="Build"
+            MenuCaption="&amp;Build"
+            CaptureOutputWith="ProcessBuffer"
+            Deletable="0"
+            SaveOption="SaveWorkspaceFiles"
+            RunFromDir="%rw">
+            <Exec CmdLine="make"/>
+         </Target>
+         <Target
+            Name="Debug"
+            MenuCaption="&amp;Debug"
+            Dialog="_gnuc_options_form Run/Debug"
+            BuildFirst="1"
+            CaptureOutputWith="ProcessBuffer"
+            Deletable="0"
+            SaveOption="SaveNone"
+            RunFromDir="%bd">
+            <Exec CmdLine='vsdebugio -prog "%rw/%on"'/>
+         </Target>
+         <Target
+            Name="Execute"
+            MenuCaption="E&amp;xecute"
+            Dialog="_gnuc_options_form Run/Debug"
+            BuildFirst="1"
+            CaptureOutputWith="ProcessBuffer"
+            Deletable="0"
+            SaveOption="SaveWorkspaceFiles"
+            RunFromDir="%bd">
+            <Exec CmdLine='"%rw/%on"'/>
+         </Target>
+         <Target
+            Name="dash"
+            MenuCaption="-"
+            Deletable="0">
+            <Exec/>
+         </Target>
+         <Target
+            Name="GNU C Options"
+            MenuCaption="GNU C &amp;Options..."
+            ShowOnMenu="HideIfNoCmdLine"
+            Deletable="0"
+            SaveOption="SaveNone">
+            <Exec
+               CmdLine="gnucoptions"
+               Type="Slick-C"/>
+         </Target>
+      </Menu>
+   </Config>
+   <Files>
+      <Folder
+         Name="c files"
+         Filters="*.cpp;*.h">
+         <F N="../main.cpp"/>
+         <F N="../../common/svgBase.cpp"/>
+         <F N="../../common/svgBase.h"/>
+         <F N="../../common/svgDwg.cpp"/>
+         <F N="../../common/svgDwg.h"/>
+         <F N="../../common/svgEllipse.cpp"/>
+         <F N="../../common/svgEllipse.h"/>
+         <F N="../../common/svgGroup.cpp"/>
+         <F N="../../common/svgGroup.h"/>
+         <F N="../../common/svgLine.cpp"/>
+         <F N="../../common/svgLine.h"/>
+         <F N="../../common/svgPoly.cpp"/>
+         <F N="../../common/svgPoly.h"/>
+         <F N="../../common/svgRect.cpp"/>
+         <F N="../../common/svgRect.h"/>
+         <F N="../../common/svgText.cpp"/>
+         <F N="../../common/svgText.h"/>
+         <F N="../../common/utility.cpp"/>
+         <F N="../../common/utility.h"/>
+         <F N="../../common/xml.cpp"/>
+         <F N="../../common/xml.h"/>
+      </Folder>
+      <Folder
+         Name="misc files"
+         Filters="">
+         <F
+            N="../makefile"
+            Type="Makefile"/>
+         <F N="../readme.txt"/>
+         <F N="../out.svg"/>
+         <F N="project.vpj"/>
+      </Folder>
+   </Files>
+</Project>
