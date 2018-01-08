@@ -1,4 +1,13 @@
-OUTFILE=svg.exe
+OUTFILEWIN=svg.exe
+OUTFILELIN=svg
+
+ifeq ($(OS),Windows_NT)
+  # Windows stuff
+  OUTFILE=$(OUTFILEWIN)
+else
+  # Linux stuff
+  OUTFILE=$(OUTFILELIN)
+endif
 
 CSRCS=                 \
 	main.cpp       \
@@ -22,7 +31,7 @@ DFLAGS=-MM
 MAKE=make
 RM=rm
 MKDIR=mkdir
-RMDIR=rmdir
+RMDIR=rm -rf
 
 OBJDIR=obj
 SRCDIR=.
@@ -50,7 +59,8 @@ $(OBJDIR):
 	$(MKDIR) -p "$(OBJDIR)"
 
 clean:
-	$(RM) -f $(OUTFILE)
+	$(RM) -f $(OUTFILEWIN)
+	$(RM) -f $(OUTFILELIN)
 	$(RM) -f $(OBJDIR)/*.*
 	$(RMDIR) $(OBJDIR)
 
