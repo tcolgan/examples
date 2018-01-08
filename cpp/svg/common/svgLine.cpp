@@ -18,6 +18,20 @@ svgLine::svgLine( float x1 , float y1 ,
 {
 }
 
+svgLine::svgLine( Point& point1 , 
+                  Point& point2 , 
+                  string colorStroke , float widthStroke ,
+                  float opacity ) 
+: _x1( point1.xVal )                
+, _y1( point1.yVal )              
+, _x2( point2.xVal )                  
+, _y2( point2.yVal )                  
+, _colorStroke( colorStroke )        
+, _widthStroke( widthStroke )    
+, _opacity( opacity )    
+{
+}
+
 void svgLine::setEndpoints( float x1 , float y1 , float x2 , float y2 )
 {
    _x1 = x1 ;                

@@ -14,7 +14,7 @@ class svgEllipse : public svgBase
 public:
   svgEllipse( float cx = 0 , float cy = 0 , 
               float rx = 100 , float ry = 100 , 
-              string colorFill = "white" , string colorStroke = "black" ,
+              string colorStroke = "black" , string colorFill = "white" ,
               float widthStroke = 1 , float opacityFill = 0.0 ) ;
 
   void draw( void ) ;

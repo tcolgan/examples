@@ -1,5 +1,7 @@
 // svgText.cpp
 
+#include <sstream>
+
 #include "svgText.h"
 
 #include "xml.h"
@@ -24,6 +26,11 @@ void svgText::setText( string text )
   _text = text ;
 }
 
+void svgText::setFontColor( string colorFill ) 
+{
+  _colorFill = colorFill ;
+}
+
 void svgText::setFontSize( float fontSize ) 
 {
   _fontSize = fontSize ;
@@ -35,6 +42,11 @@ void svgText::setLocation( float x , float y )
   _y = y ;
 }
 
+// anchor: start | middle | end | inherit
+void svgText::setAnchor( string anchor )
+{
+   _anchor = anchor ;
+}
 
 
 void svgText::draw( void ) 
@@ -45,8 +57,10 @@ void svgText::draw( void )
 
   xmlStartQuote( "style" ) ;
 
+  ostringstream fontSize ;
+  fontSize << _fontSize << "px" ;
   xmlWriteColon( "font-family" , _fontFamily.c_str() ) ;
-  xmlWriteColon( "font-size" , (int)_fontSize ) ;
+  xmlWriteColon( "font-size" , fontSize.str().c_str() ) ;
   xmlWriteColon( "fill" , _colorFill.c_str() ) ;
   xmlWriteColon( "text-anchor" , _anchor.c_str() ) ;
 

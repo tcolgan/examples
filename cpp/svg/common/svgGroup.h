@@ -20,6 +20,7 @@ public:
   void scale( float scaleX , float scaleyY ) ;
   void scale( float scale ) ;
   void deleteAll( void ) ;
+  void setViewport( float x , float y , float width , float height ) ;
 
 private:
   float  _xloc ;
@@ -27,8 +28,16 @@ private:
   float  _rotate ;
   float  _scaleX ;
   float  _scaleY ;
+  bool   _viewport ;
+
+  int _viewport_x ; 
+  int _viewport_y ;
+  int _viewport_width ;
+  int _viewport_height ;
   vector<svgBase*> _vector ;
 } ;
 
 #endif // SVGGROUP_H
+
+
 

@@ -3,6 +3,7 @@
 #ifndef SVGLINE_H
 #define SVGLINE_H
 
+#include "utility.h"
 #include "svgBase.h"
 #include <string>
 
@@ -15,6 +16,12 @@ public:
            float x2 = 100 , float y2 = 100 , 
            string colorStroke = "black" , float widthStroke = 1 ,
            float opacity = 1.0 ) ;
+
+  svgLine( Point& point1 , 
+           Point& point2 , 
+           string colorStroke = "black" , float widthStroke = 1 ,
+           float opacity = 1.0 ) ;
+
 
   void draw( void ) ;
 

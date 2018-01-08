@@ -12,7 +12,7 @@ class svgText : public svgBase
 {
 public:
   svgText( float x = 0 , float y = 0 , string text = "" ,
-           float  fontSize = 20 , string fontFamily = "Arial" ,
+           float  fontSize = 12 , string fontFamily = "Arial" ,
 //           float  fontSize = 20 , string fontFamily = "Courier New" ,
            string colorFill = "black"  ,
            string anchor = "middle"
@@ -22,6 +22,8 @@ public:
   void setText( string text ) ;
   void setFontSize( float fontSize ) ;
   void setLocation( float x , float y ) ;
+  void setAnchor( string anchor ) ;
+  void setFontColor( string colorFill ) ;
 
 private:
   float  _x ;

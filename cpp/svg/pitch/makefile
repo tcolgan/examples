@@ -23,7 +23,7 @@ DFLAGS=-MM
 MAKE=make
 RM=rm
 MKDIR=mkdir
-RMDIR=rmdir
+RMDIR=rm -rf
 
 OBJDIR=obj
 SRCDIR=.

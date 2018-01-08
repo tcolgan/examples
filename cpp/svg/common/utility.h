@@ -26,6 +26,14 @@ const std::string trimNondigits( const std::string& pString ) ;
 void trim( std::string& str ) ;
 void polarToRect( float radius , float angle , float* x , float* y ) ;
 
+struct Point
+{
+   Point(float xVal, float yVal) : xVal( xVal ) , yVal( yVal )  {} ;
+   float xVal ;   
+   float yVal ;    
+};
+
+
 class symBase : public svgBase
 {
 public:

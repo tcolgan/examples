@@ -14,6 +14,7 @@ svgGroup::svgGroup( float xloc , float yloc , float rotate , float scaleX , floa
 , _rotate( rotate )
 , _scaleX( scaleX )
 , _scaleY( scaleY )
+, _viewport( false )
 {
 }
 
@@ -21,6 +22,14 @@ svgGroup::svgGroup( float xloc , float yloc , float rotate , float scaleX , floa
 void svgGroup::draw( void ) 
 {
   char buff[100] ;
+
+  if( _viewport )
+  {
+     sprintf( buff , "svg x=\"%d\" y=\"%d\" width=\"%d\" height=\"%d\"" , 
+              _viewport_x , _viewport_y , _viewport_width , _viewport_height ) ;
+
+     xmlStartTag( buff ) ;
+  }
 
   sprintf( buff , "g transform=\"translate(%d,%d) rotate(%.1f) scale( %.2f , %.2f )\"" , 
            (int)_xloc , (int)_yloc , _rotate , _scaleX , _scaleY ) ;
@@ -33,6 +42,11 @@ void svgGroup::draw( void )
   }
 
   xmlEndTag( "g" ) ;
+
+  if( _viewport )
+  {
+     xmlEndTag( "svg" ) ;
+  }
 }
 
 
@@ -75,4 +89,14 @@ void svgGroup::deleteAll( void )
   _vector.clear() ;
 }
 
+
+void svgGroup::setViewport( float x , float y , float width , float height )
+{
+   _viewport = true ;
+
+   _viewport_x      = x      ;
+   _viewport_y      = y      ;
+   _viewport_width  = width  ;
+   _viewport_height = height ;
+}                            
 

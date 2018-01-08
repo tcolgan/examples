@@ -6,7 +6,7 @@
 
 svgEllipse::svgEllipse( float cx , float cy , 
                         float rx , float ry , 
-                        string colorFill , string colorStroke , 
+                        string colorStroke , string colorFill ,
                         float widthStroke , float opacityFill ) 
 : _cx( cx )                
 , _cy( cy )              
