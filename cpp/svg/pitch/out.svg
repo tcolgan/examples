@@ -36,7 +36,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -59,7 +59,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -82,7 +82,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -105,7 +105,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -128,7 +128,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -151,7 +151,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -174,7 +174,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -197,7 +197,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -220,7 +220,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -243,7 +243,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -266,7 +266,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -289,7 +289,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -301,7 +301,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -404,7 +404,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -427,7 +427,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -450,7 +450,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -473,7 +473,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -496,7 +496,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -519,7 +519,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -542,7 +542,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -565,7 +565,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -588,7 +588,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -611,7 +611,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -634,7 +634,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -657,7 +657,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -669,7 +669,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -783,7 +783,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -806,7 +806,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -829,7 +829,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -852,7 +852,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -875,7 +875,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -898,7 +898,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -921,7 +921,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -944,7 +944,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -967,7 +967,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -990,7 +990,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1013,7 +1013,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1036,7 +1036,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1048,7 +1048,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -1162,7 +1162,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1185,7 +1185,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1208,7 +1208,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1231,7 +1231,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1254,7 +1254,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1277,7 +1277,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1300,7 +1300,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1323,7 +1323,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1346,7 +1346,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1369,7 +1369,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1392,7 +1392,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1415,7 +1415,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1427,7 +1427,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -1541,7 +1541,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1564,7 +1564,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1587,7 +1587,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1610,7 +1610,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1633,7 +1633,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1656,7 +1656,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1679,7 +1679,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1702,7 +1702,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1725,7 +1725,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1748,7 +1748,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1771,7 +1771,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1794,7 +1794,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1806,7 +1806,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -1920,7 +1920,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1943,7 +1943,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1966,7 +1966,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -1989,7 +1989,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2012,7 +2012,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2035,7 +2035,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2058,7 +2058,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2081,7 +2081,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2104,7 +2104,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2127,7 +2127,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2150,7 +2150,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2173,7 +2173,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2185,7 +2185,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -2288,7 +2288,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2311,7 +2311,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2334,7 +2334,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2357,7 +2357,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2380,7 +2380,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2403,7 +2403,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2426,7 +2426,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2449,7 +2449,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2472,7 +2472,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2495,7 +2495,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2518,7 +2518,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2541,7 +2541,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2553,7 +2553,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -2678,7 +2678,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2701,7 +2701,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2724,7 +2724,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2747,7 +2747,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2770,7 +2770,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2793,7 +2793,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2816,7 +2816,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2839,7 +2839,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2862,7 +2862,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2885,7 +2885,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2908,7 +2908,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2931,7 +2931,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -2943,7 +2943,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -3046,7 +3046,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3069,7 +3069,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3092,7 +3092,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3115,7 +3115,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3138,7 +3138,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3161,7 +3161,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3184,7 +3184,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3207,7 +3207,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3230,7 +3230,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3253,7 +3253,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3276,7 +3276,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3299,7 +3299,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3311,7 +3311,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -3480,7 +3480,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3503,7 +3503,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3526,7 +3526,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3549,7 +3549,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3572,7 +3572,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3595,7 +3595,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3618,7 +3618,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3641,7 +3641,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3664,7 +3664,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3687,7 +3687,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3710,7 +3710,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3733,7 +3733,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3745,7 +3745,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -3859,7 +3859,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3882,7 +3882,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3905,7 +3905,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3928,7 +3928,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3951,7 +3951,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3974,7 +3974,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -3997,7 +3997,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4020,7 +4020,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4043,7 +4043,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4066,7 +4066,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4089,7 +4089,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4112,7 +4112,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4124,7 +4124,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -4238,7 +4238,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4261,7 +4261,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4284,7 +4284,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4307,7 +4307,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4330,7 +4330,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4353,7 +4353,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4376,7 +4376,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4399,7 +4399,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4422,7 +4422,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4445,7 +4445,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4468,7 +4468,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4491,7 +4491,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4503,7 +4503,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -4617,7 +4617,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4640,7 +4640,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4663,7 +4663,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4686,7 +4686,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4709,7 +4709,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4732,7 +4732,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4755,7 +4755,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4778,7 +4778,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4801,7 +4801,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4824,7 +4824,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4847,7 +4847,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4870,7 +4870,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -4882,7 +4882,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -4996,7 +4996,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5019,7 +5019,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5042,7 +5042,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5065,7 +5065,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5088,7 +5088,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5111,7 +5111,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5134,7 +5134,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5157,7 +5157,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5180,7 +5180,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5203,7 +5203,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5226,7 +5226,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5249,7 +5249,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5261,7 +5261,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -5375,7 +5375,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5398,7 +5398,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5421,7 +5421,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5444,7 +5444,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5467,7 +5467,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5490,7 +5490,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5513,7 +5513,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5536,7 +5536,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5559,7 +5559,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5582,7 +5582,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5605,7 +5605,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5628,7 +5628,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5640,7 +5640,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -5754,7 +5754,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5777,7 +5777,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5800,7 +5800,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5823,7 +5823,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5846,7 +5846,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5869,7 +5869,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5892,7 +5892,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5915,7 +5915,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5938,7 +5938,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5961,7 +5961,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -5984,7 +5984,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6007,7 +6007,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6019,7 +6019,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -6133,7 +6133,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6156,7 +6156,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6179,7 +6179,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6202,7 +6202,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6225,7 +6225,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6248,7 +6248,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6271,7 +6271,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6294,7 +6294,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6317,7 +6317,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6340,7 +6340,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6363,7 +6363,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6386,7 +6386,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6398,7 +6398,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -6512,7 +6512,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6535,7 +6535,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6558,7 +6558,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6581,7 +6581,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6604,7 +6604,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6627,7 +6627,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6650,7 +6650,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6673,7 +6673,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6696,7 +6696,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6719,7 +6719,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6742,7 +6742,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6765,7 +6765,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6777,7 +6777,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -6869,7 +6869,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6892,7 +6892,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6915,7 +6915,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6938,7 +6938,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6961,7 +6961,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -6984,7 +6984,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7007,7 +7007,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7030,7 +7030,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7053,7 +7053,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7076,7 +7076,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7099,7 +7099,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7122,7 +7122,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7134,7 +7134,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -7248,7 +7248,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7271,7 +7271,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7294,7 +7294,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7317,7 +7317,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7340,7 +7340,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7363,7 +7363,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7386,7 +7386,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7409,7 +7409,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7432,7 +7432,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7455,7 +7455,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7478,7 +7478,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7501,7 +7501,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7513,7 +7513,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -7627,7 +7627,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7650,7 +7650,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7673,7 +7673,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7696,7 +7696,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7719,7 +7719,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7742,7 +7742,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7765,7 +7765,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7788,7 +7788,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7811,7 +7811,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7834,7 +7834,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7857,7 +7857,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7880,7 +7880,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -7892,7 +7892,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -7984,7 +7984,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8007,7 +8007,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8030,7 +8030,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8053,7 +8053,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8076,7 +8076,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8099,7 +8099,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8122,7 +8122,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8145,7 +8145,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8168,7 +8168,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8191,7 +8191,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8214,7 +8214,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8237,7 +8237,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8249,7 +8249,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -8363,7 +8363,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8386,7 +8386,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8409,7 +8409,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8432,7 +8432,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8455,7 +8455,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8478,7 +8478,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8501,7 +8501,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8524,7 +8524,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8547,7 +8547,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8570,7 +8570,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8593,7 +8593,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8616,7 +8616,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8628,7 +8628,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -8731,7 +8731,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8754,7 +8754,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8777,7 +8777,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8800,7 +8800,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8823,7 +8823,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8846,7 +8846,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8869,7 +8869,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8892,7 +8892,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8915,7 +8915,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8938,7 +8938,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8961,7 +8961,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8984,7 +8984,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -8996,7 +8996,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -9088,7 +9088,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9111,7 +9111,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9134,7 +9134,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9157,7 +9157,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9180,7 +9180,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9203,7 +9203,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9226,7 +9226,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9249,7 +9249,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9272,7 +9272,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9295,7 +9295,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9318,7 +9318,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9341,7 +9341,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9353,7 +9353,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -9467,7 +9467,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9490,7 +9490,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9513,7 +9513,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9536,7 +9536,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9559,7 +9559,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9582,7 +9582,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9605,7 +9605,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9628,7 +9628,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9651,7 +9651,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9674,7 +9674,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9697,7 +9697,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9720,7 +9720,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9732,7 +9732,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -9846,7 +9846,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9869,7 +9869,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9892,7 +9892,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9915,7 +9915,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9938,7 +9938,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9961,7 +9961,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -9984,7 +9984,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10007,7 +10007,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10030,7 +10030,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10053,7 +10053,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10076,7 +10076,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10099,7 +10099,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10111,7 +10111,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -10225,7 +10225,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10248,7 +10248,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10271,7 +10271,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10294,7 +10294,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10317,7 +10317,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10340,7 +10340,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10363,7 +10363,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10386,7 +10386,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10409,7 +10409,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10432,7 +10432,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10455,7 +10455,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10478,7 +10478,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10490,7 +10490,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -10615,7 +10615,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10638,7 +10638,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10661,7 +10661,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10684,7 +10684,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10707,7 +10707,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10730,7 +10730,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10753,7 +10753,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10776,7 +10776,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10799,7 +10799,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10822,7 +10822,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10845,7 +10845,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10868,7 +10868,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -10880,7 +10880,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -10994,7 +10994,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11017,7 +11017,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11040,7 +11040,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11063,7 +11063,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11086,7 +11086,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11109,7 +11109,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11132,7 +11132,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11155,7 +11155,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11178,7 +11178,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11201,7 +11201,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11224,7 +11224,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11247,7 +11247,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11259,7 +11259,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -11351,7 +11351,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11374,7 +11374,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11397,7 +11397,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11420,7 +11420,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11443,7 +11443,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11466,7 +11466,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11489,7 +11489,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11512,7 +11512,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11535,7 +11535,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11558,7 +11558,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11581,7 +11581,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11604,7 +11604,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11616,7 +11616,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -11752,7 +11752,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11775,7 +11775,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11798,7 +11798,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11821,7 +11821,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11844,7 +11844,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11867,7 +11867,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11890,7 +11890,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11913,7 +11913,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11936,7 +11936,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11959,7 +11959,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -11982,7 +11982,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12005,7 +12005,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12017,7 +12017,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -12131,7 +12131,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12154,7 +12154,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12177,7 +12177,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12200,7 +12200,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12223,7 +12223,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12246,7 +12246,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12269,7 +12269,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12292,7 +12292,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12315,7 +12315,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12338,7 +12338,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12361,7 +12361,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12384,7 +12384,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12396,7 +12396,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -12488,7 +12488,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12511,7 +12511,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12534,7 +12534,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12557,7 +12557,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12580,7 +12580,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12603,7 +12603,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12626,7 +12626,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12649,7 +12649,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12672,7 +12672,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12695,7 +12695,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12718,7 +12718,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12741,7 +12741,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12753,7 +12753,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -12867,7 +12867,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12890,7 +12890,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12913,7 +12913,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12936,7 +12936,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12959,7 +12959,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -12982,7 +12982,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13005,7 +13005,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13028,7 +13028,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13051,7 +13051,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13074,7 +13074,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13097,7 +13097,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13120,7 +13120,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13132,7 +13132,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -13246,7 +13246,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13269,7 +13269,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13292,7 +13292,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13315,7 +13315,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13338,7 +13338,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13361,7 +13361,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13384,7 +13384,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13407,7 +13407,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13430,7 +13430,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13453,7 +13453,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13476,7 +13476,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13499,7 +13499,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13511,7 +13511,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -13625,7 +13625,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13648,7 +13648,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13671,7 +13671,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13694,7 +13694,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13717,7 +13717,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13740,7 +13740,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13763,7 +13763,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13786,7 +13786,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13809,7 +13809,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13832,7 +13832,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13855,7 +13855,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13878,7 +13878,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -13890,7 +13890,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -14015,7 +14015,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14038,7 +14038,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14061,7 +14061,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14084,7 +14084,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14107,7 +14107,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14130,7 +14130,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14153,7 +14153,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14176,7 +14176,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14199,7 +14199,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14222,7 +14222,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14245,7 +14245,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14268,7 +14268,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14280,7 +14280,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -14394,7 +14394,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14417,7 +14417,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14440,7 +14440,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14463,7 +14463,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14486,7 +14486,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14509,7 +14509,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14532,7 +14532,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14555,7 +14555,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14578,7 +14578,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14601,7 +14601,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14624,7 +14624,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14647,7 +14647,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14659,7 +14659,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -14773,7 +14773,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14796,7 +14796,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14819,7 +14819,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14842,7 +14842,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14865,7 +14865,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14888,7 +14888,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14911,7 +14911,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14934,7 +14934,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14957,7 +14957,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -14980,7 +14980,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15003,7 +15003,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15026,7 +15026,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15038,7 +15038,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -15152,7 +15152,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15175,7 +15175,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15198,7 +15198,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15221,7 +15221,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15244,7 +15244,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15267,7 +15267,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15290,7 +15290,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15313,7 +15313,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15336,7 +15336,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15359,7 +15359,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15382,7 +15382,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15405,7 +15405,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15417,7 +15417,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -15520,7 +15520,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15543,7 +15543,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15566,7 +15566,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15589,7 +15589,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15612,7 +15612,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15635,7 +15635,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15658,7 +15658,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15681,7 +15681,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15704,7 +15704,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15727,7 +15727,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15750,7 +15750,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15773,7 +15773,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15785,7 +15785,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -15888,7 +15888,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15911,7 +15911,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15934,7 +15934,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15957,7 +15957,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -15980,7 +15980,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16003,7 +16003,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16026,7 +16026,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16049,7 +16049,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16072,7 +16072,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16095,7 +16095,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16118,7 +16118,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16141,7 +16141,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16153,7 +16153,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
@@ -16267,7 +16267,7 @@
       y="-105"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16290,7 +16290,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16313,7 +16313,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16336,7 +16336,7 @@
       y="5"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16359,7 +16359,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16382,7 +16382,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16405,7 +16405,7 @@
       y="115"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16428,7 +16428,7 @@
       y="100"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16451,7 +16451,7 @@
       y="60"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16474,7 +16474,7 @@
       y="4"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16497,7 +16497,7 @@
       y="-50"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16520,7 +16520,7 @@
       y="-90"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:12px;
         fill:black;
         text-anchor:middle;
         "
@@ -16532,7 +16532,7 @@
       y="-130"
       style="
         font-family:Arial;
-        font-size:20;
+        font-size:20px;
         fill:black;
         text-anchor:middle;
         "
