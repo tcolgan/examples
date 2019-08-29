@@ -1,12 +1,13 @@
-from svgRECT import svgRect
-#from svgELLIPSE import svgEllipse
-#from svgsvgGROUP import svgGroup
-from svgDWG import svgDwg
-#from svgsvgTEXT import svgText
-from svgLINE import svgLine
-
 import copy
 
+from svg.svgDWG import svgDwg
+from svg.svgLINE import svgLine
+from svg.svgRECT import svgRect
+
+
+#from svgELLIPSE import svgEllipse
+#from svgsvgGROUP import svgGroup
+#from svgsvgTEXT import svgText
 def Transform( obj , x = 0 , y = 0 , rotate = 0 ):
   newobj = copy.copy( obj )
   newobj.transform( x , y , rotate )

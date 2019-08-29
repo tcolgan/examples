@@ -1,5 +1,6 @@
-import XML as xml
-from svgGROUP import svgGroup
+import svg.XML as xml
+from svg.svgGROUP import svgGroup
+
 
 class svgDwg( svgGroup ):
   

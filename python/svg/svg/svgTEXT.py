@@ -1,5 +1,6 @@
-import XML as xml
-from svgBASE import svgBase
+import svg.XML as xml
+from svg.svgBASE import svgBase
+
 
 class svgText(svgBase):
 
