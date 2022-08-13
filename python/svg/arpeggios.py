@@ -2,10 +2,10 @@ from svg.svgDWG import svgDwg
 from svg.svgELLIPSE import svgEllipse
 from svg.svgRECT import svgRect
 from svg.svgTEXT import svgText
+from svgConstellation import svgConstellation
 
 
-# from svgGROUP import svgGroup
-# from svgLINE import svgLine
+
 PIXELS_PER_INCH = 100
 HBORDER = 0
 VBORDER = 0
@@ -20,11 +20,15 @@ height =  8.5 * PIXELS_PER_INCH - 2 * VBORDER
 
 dwg = svgDwg( width , height )
 
+dwg.add( svgRect( width , height , 0 , 0 , colorStroke="blue"))
+
 
 diameter = 1 * PIXELS_PER_INCH
 xloc = 2 * PIXELS_PER_INCH
 yloc = 2 * PIXELS_PER_INCH
 
-dwg.add( svgEllipse( xloc , yloc , diameter , diameter ) )
+#dwg.add( svgEllipse( xloc , yloc , diameter , diameter ) )
+
+dwg.add( svgConstellation( diameter , xloc, yloc ))
   
 dwg.draw()
