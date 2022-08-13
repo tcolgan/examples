@@ -15,20 +15,20 @@ TOP_OFFSET = 0
 FONT_TO_PIXELS = 1.3
 HEIGHT_FONT_12 = 12 * FONT_TO_PIXELS
 
-width  = 11.0 * PIXELS_PER_INCH - 2 * HBORDER
-height =  8.5 * PIXELS_PER_INCH - 2 * VBORDER
+width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
+height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
 
 dwg = svgDwg( width , height )
 
 dwg.add( svgRect( width , height , 0 , 0 , colorStroke="blue"))
 
 
-diameter = 1 * PIXELS_PER_INCH
-xloc = 2 * PIXELS_PER_INCH
-yloc = 2 * PIXELS_PER_INCH
+diameter = .5 * PIXELS_PER_INCH
+xloc = 1 * PIXELS_PER_INCH
+yloc = 1 * PIXELS_PER_INCH
 
 #dwg.add( svgEllipse( xloc , yloc , diameter , diameter ) )
 
-dwg.add( svgConstellation( diameter , xloc, yloc ))
+dwg.add( svgConstellation( diameter , xloc, yloc , [0,3,7] ))
   
 dwg.draw()
