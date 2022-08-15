@@ -27,8 +27,7 @@ diameter = .5 * PIXELS_PER_INCH
 xloc = 1 * PIXELS_PER_INCH
 yloc = 1 * PIXELS_PER_INCH
 
-#dwg.add( svgEllipse( xloc , yloc , diameter , diameter ) )
-
-dwg.add( svgConstellation( diameter , xloc, yloc , [0,3,7] ))
+#dwg.add( svgConstellation( diameter , xloc, yloc , [0,3,7] ))
+dwg.add( svgConstellation( diameter , xloc, yloc , [0,1,2,3,4,5,6,7,8,9,10,11] ))
   
 dwg.draw()
