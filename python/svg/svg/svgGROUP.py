@@ -20,7 +20,7 @@ class svgGroup(svgBase):
   def draw(self):
 
     if self._viewport:
-      buff = "svg x=\"%d\" y=\"%d\" width=\"%d\" height=\"%d\"" % ( self._viewport_x , self._viewport_y , self._viewport_width , self._viewport_height ) 
+      buff = "svg x=\"%d\" y=\"%d\" width=\"%d\" height=\"%d\"" % ( self._viewport_x , self._viewport_y , self._viewport_width , self._viewport_height )
       xml.StartTag( buff ) ;
 
     buff  = "g transform=\"translate(%d,%d) rotate(%.1f) scale( %.2f , %.2f )\"" % (self._xloc , self._yloc , self._rotate , self._scaleX , self._scaleY )
@@ -44,11 +44,11 @@ class svgGroup(svgBase):
   def transform( self , xloc = 0 , yloc = 0 , rotate = 0 ) :
     self._xloc   = self._xloc   + xloc
     self._yloc   = self._yloc   + yloc
-    self._rotate = self._rotate + rotate 
+    self._rotate = self._rotate + rotate
      
   def setViewport( self , x , y , width , height ):
     self._viewport = True ;
-    self._viewport_x      = x      
-    self._viewport_y      = y      
-    self._viewport_width  = width  
-    self._viewport_height = height 
+    self._viewport_x      = x
+    self._viewport_y      = y
+    self._viewport_width  = width
+    self._viewport_height = height

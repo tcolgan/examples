@@ -11,7 +11,7 @@ class svgLine(svgBase):
     self._y2           = y2
     self._colorStroke  = colorStroke
     self._widthStroke  = widthStroke
-    self._opacity      = opacity    
+    self._opacity      = opacity
 
   def setEndpoints( self , x1 , y1 , x2 , y2 ):
     self._x1 = x1
@@ -28,7 +28,7 @@ class svgLine(svgBase):
     xml.StartQuote( "style" )
     xml.WriteColon( "stroke" , self._colorStroke )
     xml.WriteColon( "stroke-width" , self._widthStroke )
-    xml.WriteColon( "stroke-opacity" , self._opacity ) 
+    xml.WriteColon( "stroke-opacity" , self._opacity )
     xml.EndQuote() ;
     xml.EndMultitag() ;
 

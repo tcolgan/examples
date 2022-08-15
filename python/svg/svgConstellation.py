@@ -4,9 +4,11 @@ import math
 from svg.svgGROUP import svgGroup
 from svg.svgELLIPSE import svgEllipse
 from svg.svgLINE import svgLine
+from svgPitch import svgPitch
 
 
 TICK_FRACTION = .9
+PITCH_LOCATION_SCALE = 1.2
 
 class svgConstellation(svgGroup):
   
@@ -33,4 +35,10 @@ class svgConstellation(svgGroup):
 
       x2 = xloc + dia * math.cos( 2 * math.pi * ang / 360 )
       y2 = yloc + dia * math.sin( 2 * math.pi * ang / 360 )
-      self. add( svgLine( x1 , y1 , x2 , y2 ) )
+      
+      self.add( svgLine( x1 , y1 , x2 , y2 ) )
+      
+      xpitch = xloc + PITCH_LOCATION_SCALE * dia * math.cos( 2 * math.pi * ang / 360 )
+      ypitch = yloc + PITCH_LOCATION_SCALE * dia * math.sin( 2 * math.pi * ang / 360 )
+      
+      self.add( svgPitch( xpitch , ypitch , pitch ) )

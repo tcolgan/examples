@@ -17,11 +17,11 @@ class svgRect(svgBase):
   def draw(self):
     xml.StartMultitag( "rect" )
     xml.WritePar( "width" , self._width )
-    xml.WritePar( "height" , self._height ) 
+    xml.WritePar( "height" , self._height )
     xml.WritePar( "x" , self._x )
     xml.WritePar( "y" , self._y )
     xml.StartQuote( "style" )
-    xml.WriteColon( "fill" , self._colorFill ) 
+    xml.WriteColon( "fill" , self._colorFill )
     xml.WriteColon( "stroke" , self._colorStroke )
     xml.WriteColon( "stroke-width" , str( self._strokeWidth ) )
     xml.WriteColon( "fill-opacity" , "%.2f" % self._opacityFill )
