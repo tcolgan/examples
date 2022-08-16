@@ -15,6 +15,8 @@ TOP_OFFSET = 0
 FONT_TO_PIXELS = 1.3
 HEIGHT_FONT_12 = 12 * FONT_TO_PIXELS
 
+VERTICAL_OFFSET = 1.5 * PIXELS_PER_INCH
+
 width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
 height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
 
@@ -27,7 +29,15 @@ diameter = .5 * PIXELS_PER_INCH
 xloc = 1 * PIXELS_PER_INCH
 yloc = 1 * PIXELS_PER_INCH
 
-#dwg.add( svgConstellation( diameter , xloc, yloc , [0,3,7] ))
+
+
 dwg.add( svgConstellation( diameter , xloc, yloc , [0,1,2,3,4,5,6,7,8,9,10,11] ))
+
+yloc += VERTICAL_OFFSET
+dwg.add( svgConstellation( diameter , xloc, yloc , [0,2,4,5,7,9,11] ))
+
+yloc += VERTICAL_OFFSET
+dwg.add( svgConstellation( diameter , xloc, yloc , [0,2,3,5,7,8,10] ))
+
   
 dwg.draw()

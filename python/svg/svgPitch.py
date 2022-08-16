@@ -5,10 +5,11 @@ from svg.svgGROUP import svgGroup
 from svg.svgELLIPSE import svgEllipse
 from svg.svgLINE import svgLine
 from svg.svgRECT import svgRect
-from svg.svgEqTri import svgEqTri
+from svg.svgPolygon import svgPolygon
 
 ICON_SIZE = 10
 ICON_SIZE_HALF = ICON_SIZE / 2
+
 
 class svgPitch(svgGroup):
   
@@ -20,64 +21,93 @@ class svgPitch(svgGroup):
     self._xloc = xloc
     self._yloc = yloc
     self._scale = scale
+    self._pitchIcon = svgGroup()
 
 
     if self._pitch == 0 :
-      self._pitchIcon = svgRect( ICON_SIZE , ICON_SIZE , self._xloc - ICON_SIZE / 2 , self._yloc - ICON_SIZE / 2 )
+      self._pitchIcon.add( svgRect( ICON_SIZE , ICON_SIZE , self._xloc - ICON_SIZE / 2 , self._yloc - ICON_SIZE / 2 ) )
         
     elif self._pitch == 1 :
-      
-      pass
-        
+      self.addX( xloc , yloc )
+      self.addLittleCircle(xloc,yloc)
+
     elif self._pitch == 2 :
-      pass
-        
+      self.addX( xloc , yloc )
+
     elif self._pitch == 3 :
-      self._pitchIcon = svgEqTri(ICON_SIZE_HALF,xloc,yloc)
-      pass
+      self.addTriangle(xloc,yloc,colorFill="black")
         
     elif self._pitch == 4 :
-      x_delta = ICON_SIZE_HALF + math.cos( 2 * math.pi * 30 / 360 )
-      y_delta = ICON_SIZE_HALF + math.sin( 2 * math.pi * 30 / 360 )
-      self._pitchIcon = svgGroup()
-      x1 = xloc
-      y1 = yloc - ICON_SIZE_HALF
-      x2 = xloc + x_delta
-      y2 = yloc + y_delta
-      x3 = xloc - x_delta
-      y3 = yloc + y_delta
-      self._pitchIcon.add( svgLine( x1 , y1 , x2 , y2 ) )
-      self._pitchIcon.add( svgLine( x2 , y2 , x3 , y3 ) )
-      self._pitchIcon.add( svgLine( x3 , y3 , x1 , y1 ) )
-      pass
-        
+      self.addTriangle(xloc,yloc,colorFill="white")
+
     elif self._pitch == 5 :
-      pass
-        
+      self.addDiamond(xloc,yloc)
+
     elif self._pitch == 6 :
-      pass
+      self._pitchIcon.add( svgEllipse( self._xloc , self._yloc , ICON_SIZE_HALF , ICON_SIZE_HALF , colorFill="black" ) )
         
     elif self._pitch == 7 :
-      pass
-        
+      self._pitchIcon.add( svgEllipse( self._xloc , self._yloc , ICON_SIZE_HALF , ICON_SIZE_HALF ) )
+
     elif self._pitch == 8 :
-      pass
-        
+      self.add6( xloc , yloc )
+      self.addLittleCircle(xloc,yloc)
+
     elif self._pitch == 9 :
-      pass
-        
+      self.add6( xloc , yloc )
+
     elif self._pitch == 10 :
-      pass
-        
+      self._pitchIcon.add( svgEllipse( self._xloc , self._yloc , ICON_SIZE_HALF / 2 , ICON_SIZE_HALF / 2 , colorFill="black" ) )
+
     elif self._pitch == 11 :
-      pass
+      self._pitchIcon.add( svgEllipse( self._xloc , self._yloc , ICON_SIZE_HALF / 2 , ICON_SIZE_HALF / 2 ) )
 
         
   def draw(self):
-
-    if hasattr( self , '_pitchIcon' ):
-      self._pitchIcon.draw()
+    self._pitchIcon.draw()
         
         
+  def addX( self , xloc , yloc ):
+    self._pitchIcon.add( svgLine( xloc + ICON_SIZE_HALF , yloc + ICON_SIZE_HALF , xloc - ICON_SIZE_HALF , yloc - ICON_SIZE_HALF) )
+    self._pitchIcon.add( svgLine( xloc - ICON_SIZE_HALF , yloc + ICON_SIZE_HALF , xloc + ICON_SIZE_HALF , yloc - ICON_SIZE_HALF) )
+    
+    
+  def add6( self , xloc , yloc ):
+    x_delta = ICON_SIZE_HALF * math.cos( 2 * math.pi * 30 / 360 )
+    y_delta = ICON_SIZE_HALF * math.sin( 2 * math.pi * 30 / 360 )
+
+    self._pitchIcon = svgGroup()
+    self._pitchIcon.add( svgLine( xloc , yloc + ICON_SIZE_HALF , xloc , yloc - ICON_SIZE_HALF ) )
+    self._pitchIcon.add( svgLine( xloc + x_delta , yloc + y_delta , xloc - x_delta , yloc - y_delta ) )
+    self._pitchIcon.add( svgLine( xloc - x_delta , yloc + y_delta , xloc + x_delta , yloc -   y_delta ) )
 
 
+  def addLittleCircle(self,xloc,yloc):
+    
+    radius = ICON_SIZE_HALF / 2
+    self._pitchIcon.add( svgEllipse( xloc , yloc , radius , radius , colorFill="black") )
+
+
+  def addDiamond(self,xloc,yloc):
+    
+    self._pitchIcon = svgGroup()
+    self._pitchIcon.add( svgLine( xloc + ICON_SIZE_HALF , yloc , xloc , yloc + ICON_SIZE_HALF) )
+    self._pitchIcon.add( svgLine( xloc - ICON_SIZE_HALF , yloc , xloc , yloc + ICON_SIZE_HALF) )
+    self._pitchIcon.add( svgLine( xloc - ICON_SIZE_HALF , yloc , xloc , yloc - ICON_SIZE_HALF) )
+    self._pitchIcon.add( svgLine( xloc + ICON_SIZE_HALF , yloc , xloc , yloc - ICON_SIZE_HALF) )
+
+
+  def addTriangle(self,xloc,yloc,colorFill="white"):
+
+    x_delta = ICON_SIZE_HALF + math.cos( 2 * math.pi * 30 / 360 )
+    y_delta = ICON_SIZE_HALF + math.sin( 2 * math.pi * 30 / 360 )
+
+    x1 = xloc
+    y1 = yloc - ICON_SIZE_HALF
+    x2 = xloc + x_delta
+    y2 = yloc + y_delta
+    x3 = xloc - x_delta
+    y3 = yloc + y_delta
+    
+    points = [(x1,y1),(x2,y2),(x3,y3)]
+    self._pitchIcon.add( svgPolygon( points , colorFill ) )
