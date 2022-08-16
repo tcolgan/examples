@@ -20,16 +20,15 @@ class svgPitch(svgGroup):
     self._pitch = pitch
     self._xloc = xloc
     self._yloc = yloc
-    self._scale = scale
-    self._pitchIcon = svgGroup()
+    self._pitchIcon = svgGroup(scaleX=scale,scaleY=scale)
 
 
     if self._pitch == 0 :
-      self._pitchIcon.add( svgRect( ICON_SIZE , ICON_SIZE , self._xloc - ICON_SIZE / 2 , self._yloc - ICON_SIZE / 2 ) )
+      self.addSquare(xloc , yloc, ICON_SIZE)
         
     elif self._pitch == 1 :
       self.addX( xloc , yloc )
-      self.addLittleCircle(xloc,yloc)
+      self.addCircle(xloc,yloc,radius=ICON_SIZE_HALF/2,colorFill="black")
 
     elif self._pitch == 2 :
       self.addX( xloc , yloc )
@@ -44,23 +43,23 @@ class svgPitch(svgGroup):
       self.addDiamond(xloc,yloc)
 
     elif self._pitch == 6 :
-      self._pitchIcon.add( svgEllipse( self._xloc , self._yloc , ICON_SIZE_HALF , ICON_SIZE_HALF , colorFill="black" ) )
-        
+      self.addCircle(xloc,yloc,radius=ICON_SIZE_HALF,colorFill="black")
+
     elif self._pitch == 7 :
-      self._pitchIcon.add( svgEllipse( self._xloc , self._yloc , ICON_SIZE_HALF , ICON_SIZE_HALF ) )
+      self.addCircle(xloc,yloc,radius=ICON_SIZE_HALF,colorFill="white")
 
     elif self._pitch == 8 :
       self.add6( xloc , yloc )
-      self.addLittleCircle(xloc,yloc)
+      self.addCircle(xloc,yloc,radius=ICON_SIZE_HALF/2,colorFill="black")
 
     elif self._pitch == 9 :
       self.add6( xloc , yloc )
 
     elif self._pitch == 10 :
-      self._pitchIcon.add( svgEllipse( self._xloc , self._yloc , ICON_SIZE_HALF / 2 , ICON_SIZE_HALF / 2 , colorFill="black" ) )
+      self.addCircle(xloc,yloc,radius=ICON_SIZE_HALF,colorFill="black")
 
     elif self._pitch == 11 :
-      self._pitchIcon.add( svgEllipse( self._xloc , self._yloc , ICON_SIZE_HALF / 2 , ICON_SIZE_HALF / 2 ) )
+      self.addCircle(xloc,yloc,radius=ICON_SIZE_HALF,colorFill="grey")
 
         
   def draw(self):
@@ -90,7 +89,6 @@ class svgPitch(svgGroup):
 
   def addDiamond(self,xloc,yloc):
     
-    self._pitchIcon = svgGroup()
     self._pitchIcon.add( svgLine( xloc + ICON_SIZE_HALF , yloc , xloc , yloc + ICON_SIZE_HALF) )
     self._pitchIcon.add( svgLine( xloc - ICON_SIZE_HALF , yloc , xloc , yloc + ICON_SIZE_HALF) )
     self._pitchIcon.add( svgLine( xloc - ICON_SIZE_HALF , yloc , xloc , yloc - ICON_SIZE_HALF) )
@@ -111,3 +109,11 @@ class svgPitch(svgGroup):
     
     points = [(x1,y1),(x2,y2),(x3,y3)]
     self._pitchIcon.add( svgPolygon( points , colorFill ) )
+    
+
+  def addSquare(self,xloc,yloc,size):
+    self._pitchIcon.add( svgRect( size , size , xloc - size / 2 , yloc - size / 2 ) )
+
+
+  def addCircle(self,xloc,yloc,radius,colorFill="white"):
+    self._pitchIcon.add( svgEllipse( xloc , yloc , radius , radius, colorFill=colorFill ) )

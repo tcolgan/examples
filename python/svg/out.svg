@@ -542,8 +542,8 @@
         <ellipse
           cx="48.03847577293369"
           cy="70.0"
-          rx="2.5"
-          ry="2.5"
+          rx="5.0"
+          ry="5.0"
           style="
             fill:black;
             stroke:black;
@@ -567,10 +567,10 @@
         <ellipse
           cx="69.99999999999997"
           cy="48.038475772933694"
-          rx="2.5"
-          ry="2.5"
+          rx="5.0"
+          ry="5.0"
           style="
-            fill:white;
+            fill:grey;
             stroke:black;
             stroke-width:1;
             fill-opacity:1.00;
@@ -948,10 +948,10 @@
         <ellipse
           cx="69.99999999999997"
           cy="198.03847577293368"
-          rx="2.5"
-          ry="2.5"
+          rx="5.0"
+          ry="5.0"
           style="
-            fill:white;
+            fill:grey;
             stroke:black;
             stroke-width:1;
             fill-opacity:1.00;
@@ -1341,8 +1341,8 @@
         <ellipse
           cx="48.03847577293369"
           cy="370.0"
-          rx="2.5"
-          ry="2.5"
+          rx="5.0"
+          ry="5.0"
           style="
             fill:black;
             stroke:black;
