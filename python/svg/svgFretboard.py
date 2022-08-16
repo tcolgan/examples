@@ -11,7 +11,7 @@ DEFAULT_STRING_SEPARATION = 25
 DEFAULT_FRET_SEPARATION = DEFAULT_STRING_SEPARATION
 
 NUMBER_STRINGS = 4
-NUMBER_FRETS = 18
+NUMBER_FRETS = 20
 
 NUMBER_NOTES = 12
 
@@ -32,7 +32,7 @@ class svgFretboard(svgGroup):
 
     yloc = 0
     pitch_start = [9,2,7,0]
-    dots = [0,0,0,1,0,1,0,1,0,0,1,0,2,0,0,1,0,0,0,0,0,0]
+    dots = [0,0,0,1,0,1,0,1,0,0,1,0,2,0,0,1,0,1,0,1,0,0]
     for string in range( NUMBER_STRINGS ):
       pitch_idx = pitch_start[ string ]
       self.add( svgLine(  0 , yloc , width , yloc ) )

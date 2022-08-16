@@ -6,7 +6,6 @@ from svgConstellation import svgConstellation
 from svgFretboard import svgFretboard
 
 
-
 PIXELS_PER_INCH = 100
 HBORDER = 0
 VBORDER = 0
@@ -23,12 +22,12 @@ height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
 
 dwg = svgDwg( width , height )
 
-dwg.add( svgRect( width , height , 0 , 0 , colorStroke="blue"))
+# dwg.add( svgRect( width , height , 0 , 0 , colorStroke="blue"))
 
 
 diameter = .4 * PIXELS_PER_INCH
-xloc = 1 * PIXELS_PER_INCH
-yloc = 1 * PIXELS_PER_INCH
+xloc = 1.2 * PIXELS_PER_INCH
+yloc = .75 * PIXELS_PER_INCH
 
 text_offset = 1.4 * diameter
 
@@ -36,6 +35,12 @@ pitch_arrays = [
     ( "chromatic scale" , [0,1,2,3,4,5,6,7,8,9,10,11] ) ,
     ( "major scale"     , [0,2,4,5,7,9,11]            ) ,
     ( "minor scale"     , [0,2,3,5,7,8,10]            ),
+    ( "X7"              , [0,4,7,10] ),
+    ( "Xmaj7"           , [0,4,7,11] ),
+    ( "Xmin7"           , [0,3,7,10] ),
+    ( "Xmin7b5"         , [0,3,6,10] ),
+    ( "Xsus2"           , [0,2,7]    ),
+    ( "Xsus4"           , [0,5,7]    ),
   ]
 
 for text,pitches in pitch_arrays:

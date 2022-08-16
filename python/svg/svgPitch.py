@@ -10,6 +10,8 @@ from svg.svgPolygon import svgPolygon
 ICON_SIZE = 10
 ICON_SIZE_HALF = ICON_SIZE / 2
 
+SMALL_CIRCLE_SIZE = 3
+
 
 class svgPitch(svgGroup):
   
@@ -28,7 +30,7 @@ class svgPitch(svgGroup):
         
     elif pitch == 1 :
       self.addX()
-      self.addCircle(radius=ICON_SIZE_HALF/2,colorFill="black")
+      self.addCircle(radius=SMALL_CIRCLE_SIZE,colorFill="black")
 
     elif pitch == 2 :
       self.addX()
@@ -56,10 +58,10 @@ class svgPitch(svgGroup):
       self.add6()
 
     elif pitch == 10 :
-      self.addCircle(radius=ICON_SIZE_HALF,colorFill="black")
+      self.addCircle(radius=SMALL_CIRCLE_SIZE,colorFill="black")
 
     elif pitch == 11 :
-      self.addCircle(radius=ICON_SIZE_HALF,colorFill="white")
+      self.addCircle(radius=SMALL_CIRCLE_SIZE,colorFill="white")
 
         
   def addX( self ):
