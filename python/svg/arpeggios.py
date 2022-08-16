@@ -29,15 +29,18 @@ diameter = .5 * PIXELS_PER_INCH
 xloc = 1 * PIXELS_PER_INCH
 yloc = 1 * PIXELS_PER_INCH
 
+text_offset = 1.4 * diameter
 
+pitch_arrays = [
+    ( "chromatic scale" , [0,1,2,3,4,5,6,7,8,9,10,11] ) ,
+    ( "major scale"     , [0,2,4,5,7,9,11]            ) ,
+    ( "minor scale"     , [0,2,3,5,7,8,10]            ),
+  ]
 
-dwg.add( svgConstellation( diameter , xloc, yloc , [0,1,2,3,4,5,6,7,8,9,10,11] ))
-
-yloc += VERTICAL_OFFSET
-dwg.add( svgConstellation( diameter , xloc, yloc , [0,2,4,5,7,9,11] ))
-
-yloc += VERTICAL_OFFSET
-dwg.add( svgConstellation( diameter , xloc, yloc , [0,2,3,5,7,8,10] ))
-
+for text,pitchs in pitch_arrays:
+  
+  dwg.add( svgConstellation( diameter , xloc , yloc , pitchs  ))
+  dwg.add( svgText( xloc - text_offset , yloc , text , rotate=270.0) )
+  yloc += VERTICAL_OFFSET
   
 dwg.draw()

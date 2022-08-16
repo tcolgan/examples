@@ -543,6 +543,19 @@
           />
       </g>
     </g>
+    <text
+      x="0"
+      y="0"
+      transform="translate(30.00,100.00) rotate(270.00)"
+      style="
+        font-family:Arial;
+        font-size:12px;
+        fill:black;
+        text-anchor:middle;
+        "
+      >
+      chromatic scale
+    </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
         cx="100"
@@ -889,6 +902,19 @@
           />
       </g>
     </g>
+    <text
+      x="0"
+      y="0"
+      transform="translate(30.00,250.00) rotate(270.00)"
+      style="
+        font-family:Arial;
+        font-size:12px;
+        fill:black;
+        text-anchor:middle;
+        "
+      >
+      major scale
+    </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
         cx="100"
@@ -1247,5 +1273,18 @@
           />
       </g>
     </g>
+    <text
+      x="0"
+      y="0"
+      transform="translate(30.00,400.00) rotate(270.00)"
+      style="
+        font-family:Arial;
+        font-size:12px;
+        fill:black;
+        text-anchor:middle;
+        "
+      >
+      minor scale
+    </text>
   </g>
 </svg>

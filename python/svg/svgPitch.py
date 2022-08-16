@@ -19,6 +19,8 @@ class svgPitch(svgGroup):
         
     self._xloc = xloc
     self._yloc = yloc
+    self._scaleX = scale
+    self._scaleY = scale
 
 
     if pitch == 0 :
