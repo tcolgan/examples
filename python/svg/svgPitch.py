@@ -111,7 +111,7 @@ class svgPitch(svgGroup):
     
 
   def addSquare(self,size):
-    self.add( svgRect( size , size , -size / 2 , -size / 2 ) )
+    self.add( svgRect( size , size , -size / 2 , -size / 2 , colorFill = "white" ) )
 
 
   def addCircle(self,radius,colorFill="white"):

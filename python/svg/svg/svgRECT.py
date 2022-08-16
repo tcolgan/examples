@@ -4,7 +4,7 @@ from svg.svgBASE import svgBase
 
 class svgRect(svgBase):
   
-  def __init__(self,width,height,x,y,colorFill="white",colorStroke="black",strokeWidth=1,opacityFill=0.0):
+  def __init__(self,width,height,x,y,colorFill="white",colorStroke="black",strokeWidth=1,opacityFill=1.0):
     self._width = width
     self._height = height
     self._x = x
