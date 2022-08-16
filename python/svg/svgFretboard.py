@@ -2,43 +2,40 @@
 import math
 
 from svg.svgGROUP import svgGroup
-from svg.svgELLIPSE import svgEllipse
 from svg.svgLINE import svgLine
+from svg.svgRECT import svgRect
 from svgPitch import svgPitch
 
+DEFAULT_STRING_SEPARATION = 25
+DEFAULT_FRET_SEPARATION = DEFAULT_STRING_SEPARATION
 
-TICK_FRACTION = .9
-PITCH_LOCATION_SCALE = 1.2
+NUMBER_STRINGS = 4
+NUMBER_FRETS = 18
 
-class svgConstellation(svgGroup):
+class svgFretboard(svgGroup):
   
-  def __init__(self,dia,xloc,yloc,pitches=[]):
+  def __init__(self,xloc,yloc,pitches=[]):
 
     super().__init__()
-    self.add( svgEllipse( xloc , yloc , dia , dia))
-    for idx in range(12):
-      ang = idx * 30 - 90
 
-      x1 = xloc + TICK_FRACTION * dia * math.cos( 2 * math.pi * ang / 360 )
-      y1 = yloc + TICK_FRACTION * dia * math.sin( 2 * math.pi * ang / 360 )
+    self._xloc = xloc
+    self._yloc = yloc
 
-      x2 = xloc + dia * math.cos( 2 * math.pi * ang / 360 )
-      y2 = yloc + dia * math.sin( 2 * math.pi * ang / 360 )
-      self. add( svgLine( x1 , y1 , x2 , y2 ) )
-  
+    
+    width  = NUMBER_FRETS * DEFAULT_FRET_SEPARATION
+    height = ( NUMBER_STRINGS - 1 ) * DEFAULT_STRING_SEPARATION
+    self.add( svgRect( width , height , 0 , 0 , colorStroke="blue" ) )
 
-    for pitch in pitches:
-      ang = pitch * 30 - 90
+    yloc = 0
+    for string in range( NUMBER_STRINGS ):
+      self.add( svgLine(  0 , yloc , width , yloc ) )
+      yloc += DEFAULT_STRING_SEPARATION
+      xloc = DEFAULT_FRET_SEPARATION
+      for fret in range( NUMBER_FRETS - 1 ) :
+        self.add( svgLine(  xloc , 0 , xloc , height ) )
+        xloc += DEFAULT_FRET_SEPARATION
+        
+        
+#  for pitch in pitches:
 
-      x1 = xloc
-      y1 = yloc
-
-      x2 = xloc + dia * math.cos( 2 * math.pi * ang / 360 )
-      y2 = yloc + dia * math.sin( 2 * math.pi * ang / 360 )
-      
-      self.add( svgLine( x1 , y1 , x2 , y2 ) )
-      
-      xpitch = xloc + PITCH_LOCATION_SCALE * dia * math.cos( 2 * math.pi * ang / 360 )
-      ypitch = yloc + PITCH_LOCATION_SCALE * dia * math.sin( 2 * math.pi * ang / 360 )
-      
-      self.add( svgPitch( xpitch , ypitch , pitch ) )
+#    self.add( svgPitch( xpitch , ypitch , pitch ) )

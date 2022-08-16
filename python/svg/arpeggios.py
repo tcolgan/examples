@@ -3,6 +3,7 @@ from svg.svgELLIPSE import svgEllipse
 from svg.svgRECT import svgRect
 from svg.svgTEXT import svgText
 from svgConstellation import svgConstellation
+from svgFretboard import svgFretboard
 
 
 
@@ -37,9 +38,10 @@ pitch_arrays = [
     ( "minor scale"     , [0,2,3,5,7,8,10]            ),
   ]
 
-for text,pitchs in pitch_arrays:
+for text,pitches in pitch_arrays:
   
-  dwg.add( svgConstellation( diameter , xloc , yloc , pitchs  ))
+  dwg.add( svgConstellation( diameter , xloc , yloc , pitches  ))
+  dwg.add( svgFretboard( xloc + 3*diameter , yloc - diameter , pitches ))
   dwg.add( svgText( xloc - text_offset , yloc , text , rotate=270.0) )
   yloc += VERTICAL_OFFSET
   
