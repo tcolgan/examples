@@ -328,48 +328,13 @@
           "
         />
       <g transform="translate(130,151) rotate(0.0) scale( 1.00 , 1.00 )">
-        <line
-          x1="5.0"
-          x2="0"
-          y1="0"
-          y2="5.0"
+        <polygon
+          points="5.0 , 0  0 , -5.0  -5.0 , 0  0 , 5.0  "
           style="
+            fill:white;
             stroke:black;
             stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-        <line
-          x1="-5.0"
-          x2="0"
-          y1="0"
-          y2="5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-        <line
-          x1="-5.0"
-          x2="0"
-          y1="0"
-          y2="-5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-        <line
-          x1="5.0"
-          x2="0"
-          y1="0"
-          y2="-5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
+            fill-opacity:1.00;
             "
           />
       </g>
@@ -817,48 +782,13 @@
           "
         />
       <g transform="translate(130,301) rotate(0.0) scale( 1.00 , 1.00 )">
-        <line
-          x1="5.0"
-          x2="0"
-          y1="0"
-          y2="5.0"
+        <polygon
+          points="5.0 , 0  0 , -5.0  -5.0 , 0  0 , 5.0  "
           style="
+            fill:white;
             stroke:black;
             stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-        <line
-          x1="-5.0"
-          x2="0"
-          y1="0"
-          y2="5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-        <line
-          x1="-5.0"
-          x2="0"
-          y1="0"
-          y2="-5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-        <line
-          x1="5.0"
-          x2="0"
-          y1="0"
-          y2="-5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
+            fill-opacity:1.00;
             "
           />
       </g>
@@ -1198,48 +1128,13 @@
           "
         />
       <g transform="translate(130,451) rotate(0.0) scale( 1.00 , 1.00 )">
-        <line
-          x1="5.0"
-          x2="0"
-          y1="0"
-          y2="5.0"
+        <polygon
+          points="5.0 , 0  0 , -5.0  -5.0 , 0  0 , 5.0  "
           style="
+            fill:white;
             stroke:black;
             stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-        <line
-          x1="-5.0"
-          x2="0"
-          y1="0"
-          y2="5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-        <line
-          x1="-5.0"
-          x2="0"
-          y1="0"
-          y2="-5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-        <line
-          x1="5.0"
-          x2="0"
-          y1="0"
-          y2="-5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
+            fill-opacity:1.00;
             "
           />
       </g>

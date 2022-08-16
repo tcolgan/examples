@@ -76,10 +76,20 @@ class svgPitch(svgGroup):
 
   def addDiamond(self):
     
-    self.add( svgLine( +ICON_SIZE_HALF , 0 , 0 , +ICON_SIZE_HALF) )
-    self.add( svgLine( -ICON_SIZE_HALF , 0 , 0 , +ICON_SIZE_HALF) )
-    self.add( svgLine( -ICON_SIZE_HALF , 0 , 0 , -ICON_SIZE_HALF) )
-    self.add( svgLine( +ICON_SIZE_HALF , 0 , 0 , -ICON_SIZE_HALF) )
+    x1 = +ICON_SIZE_HALF
+    y1 = 0
+    
+    x2 = 0
+    y2 = -ICON_SIZE_HALF
+
+    x3 = -ICON_SIZE_HALF
+    y3 = 0
+
+    x4 = 0
+    y4 = +ICON_SIZE_HALF
+    
+    points = [(x1,y1),(x2,y2),(x3,y3),(x4,y4)]
+    self.add( svgPolygon( points ) )
 
 
   def addTriangle(self,colorFill="white"):
