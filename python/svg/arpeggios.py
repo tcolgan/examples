@@ -17,6 +17,14 @@ HEIGHT_FONT_12 = 12 * FONT_TO_PIXELS
 
 VERTICAL_OFFSET = 1.2 * PIXELS_PER_INCH
 
+NUMBER_FRETS = 20
+
+NUMBER_STRINGS = 4
+NUMBER_FRETS = 20
+
+NUMBER_NOTES = 12
+
+
 width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
 height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
 
@@ -42,12 +50,48 @@ pitch_arrays = [
     ( "Xsus2"           , [0,2,7]    ),
     ( "Xsus4"           , [0,5,7]    ),
   ]
+  
+note_matrix = [
+    [ -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 ] ,
+    [ -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 ] ,
+    [ -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 ] ,
+    [ -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 , -1 ] ,
+  ]
+  
+  
+def incr( start ) :
+  value = start + 1
+  if value >= NUMBER_NOTES :
+    value = value - NUMBER_NOTES
+  return value
+
+
+def makeNoteMatrix( pitches ) :
+  matrix = []
+
+  pitch_string = [9,2,7,0]
+  for string in range( NUMBER_STRINGS ) :
+    array = []
+    pitch = pitch_string[ string ]
+    for fret in range( NUMBER_FRETS ) :
+      if pitch in pitches:
+        val = pitch
+      else:
+        val = -1
+      array.append( val )
+      pitch = incr( pitch )
+    matrix.append( array )
+  return matrix
+  
 
 for text,pitches in pitch_arrays:
   
   dwg.add( svgConstellation( diameter , xloc , yloc , pitches  ))
-  dwg.add( svgFretboard( xloc + 2*diameter , yloc - diameter , pitches ))
+  dwg.add( svgFretboard( xloc + 2*diameter , yloc - diameter , NUMBER_FRETS , makeNoteMatrix( pitches ) ))
   dwg.add( svgText( xloc - text_offset , yloc , text , rotate=270.0) )
   yloc += VERTICAL_OFFSET
   
 dwg.draw()
+
+
+      
