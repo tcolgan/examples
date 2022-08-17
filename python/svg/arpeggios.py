@@ -4,7 +4,7 @@ from svg.svgRECT import svgRect
 from svg.svgTEXT import svgText
 from svgConstellation import svgConstellation
 from svgFretboard import svgFretboard
-from svgNote import svgNote
+from svgKey import svgKey
 
 
 PIXELS_PER_INCH = 100
@@ -27,6 +27,9 @@ NUMBER_FRETS = 20
 
 width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
 height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
+
+TITLE_OFFSET_X = PIXELS_PER_INCH * .02
+TITLE_OFFSET_Y = PIXELS_PER_INCH * .2
 
 dwg = svgDwg( width , height )
 
@@ -52,14 +55,18 @@ pitch_arrays = [
   ]
 
 
+key_text = "E"
+title = "KEY : " + key_text
+dwg.add( svgText(TITLE_OFFSET_X,TITLE_OFFSET_Y,title,fontSize=24,anchor="left"))
+
 for text,pitches in pitch_arrays:
   
-  note = svgNote( "G" )
+  key = svgKey( key_text )
   dwg.add( svgConstellation( diameter , xloc , yloc , pitches  ))
   dwg.add( svgFretboard( xloc + 2*diameter ,
                          yloc - diameter ,
                          NUMBER_FRETS ,
-                         note.makeMatrix( pitches ) ,
+                         key.makeMatrix( pitches ) ,
                         ))
   dwg.add( svgText( xloc - text_offset , yloc , text , rotate=270.0) )
   yloc += VERTICAL_OFFSET

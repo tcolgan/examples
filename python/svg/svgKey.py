@@ -1,5 +1,5 @@
 
-class svgNote():
+class svgKey():
   
   key_offsets = {
     "G"  : 0  ,
@@ -27,8 +27,16 @@ class svgNote():
 
 
   
-  def __init__(self,key="G"):
+  def __init__( self , key="G" , number_frets = NUMBER_FRETS ) :
     self._key = key
+    self.number_frets = number_frets
+  
+    pitch_string_base = [9,2,7,0]
+    pitch_offset = self.key_offsets[ self._key ]
+    self.pitch_string = []
+    for pitch in pitch_string_base :
+      self.pitch_string.append( self.incr( pitch , pitch_offset ) )
+
 
   def incr( self , start , increment = 1 ) :
     value = start + increment
@@ -39,16 +47,10 @@ class svgNote():
   def makeMatrix( self , pitches ) :
     matrix = []
 
-    pitch_string_base = [9,2,7,0]
-    pitch_offset = self.key_offsets[ self._key ]
-    pitch_string = []
-    for pitch in pitch_string_base :
-      pitch_string.append( self.incr( pitch , pitch_offset ) )
-  
     for string in range( self.NUMBER_STRINGS ) :
       array = []
-      pitch = pitch_string[ string ]
-      for fret in range( self.NUMBER_FRETS ) :
+      pitch = self.pitch_string[ string ]
+      for fret in range( self.number_frets ) :
         if pitch in pitches:
           val = pitch
         else:
@@ -56,4 +58,23 @@ class svgNote():
         array.append( val )
         pitch = self.incr( pitch )
       matrix.append( array )
+    return matrix
+    
+
+  def makeChordMatrix( self , frets ) :
+    matrix = []
+
+    for string in range( self.NUMBER_STRINGS ) :
+      array = []
+      pitch = self.pitch_string[ string ]
+      fret_idx = frets[ string ]
+      for fret in range( self.number_frets ) :
+        if fret_idx == fret :
+          val = pitch
+        else:
+          val = -1
+        array.append( val )
+        pitch = self.incr( pitch )
+      matrix.append( array )
+#    print( "matrix = " , matrix )
     return matrix
