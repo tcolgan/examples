@@ -32,11 +32,9 @@ class svgFretboard(svgGroup):
     height = ( NUMBER_STRINGS - 1 ) * DEFAULT_STRING_SEPARATION
 
     yloc = 0
-    pitch_start = [9,2,7,0]
     dots = [0,0,0,1,0,1,0,1,0,0,1,0,2,0,0,1,0,1,0,1,0,0]
     for string in range( NUMBER_STRINGS ):
       notes = note_matrix[ string ]
-      pitch_idx = pitch_start[ string ]
       self.add( svgLine(  0 , yloc , width , yloc ) )
       xloc = DEFAULT_FRET_SEPARATION
       for fret in range( number_frets ) :
@@ -61,13 +59,14 @@ class svgFretboard(svgGroup):
         xloc += DEFAULT_FRET_SEPARATION
             
       yloc += DEFAULT_STRING_SEPARATION
+
         
   def addCircle(self,radius, xloc, yloc , colorFill="grey"):
     self.add( svgEllipse( xloc , yloc , radius , radius, colorFill=colorFill ) )
       
         
-  def incr( self, start ) :
-    value = start + 1
+  def incr( self, start , increment = 1 ) :
+    value = start + increment
     if value >= NUMBER_NOTES :
       value = value - NUMBER_NOTES
     return value
