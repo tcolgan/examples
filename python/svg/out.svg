@@ -589,6 +589,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(12.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        0
+      </text>
       <line
         x1="50"
         x2="50"
@@ -614,6 +627,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(37.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        1
+      </text>
       <line
         x1="75"
         x2="75"
@@ -639,6 +665,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(62.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        2
+      </text>
       <line
         x1="100"
         x2="100"
@@ -664,6 +703,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(87.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        3
+      </text>
       <ellipse
         cx="87.5"
         cy="93.75"
@@ -723,6 +775,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(112.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        4
+      </text>
       <line
         x1="150"
         x2="150"
@@ -758,6 +823,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(137.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        5
+      </text>
       <ellipse
         cx="137.5"
         cy="93.75"
@@ -792,6 +870,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(162.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        6
+      </text>
       <line
         x1="200"
         x2="200"
@@ -814,6 +905,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(187.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        7
+      </text>
       <ellipse
         cx="187.5"
         cy="93.75"
@@ -848,6 +952,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(212.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        8
+      </text>
       <line
         x1="250"
         x2="250"
@@ -873,6 +990,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(237.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        9
+      </text>
       <line
         x1="275"
         x2="275"
@@ -898,6 +1028,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(262.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        10
+      </text>
       <ellipse
         cx="262.5"
         cy="93.75"
@@ -968,6 +1111,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(287.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        11
+      </text>
       <line
         x1="325"
         x2="325"
@@ -1014,6 +1170,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(312.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        12
+      </text>
       <ellipse
         cx="312.5"
         cy="87.5"
@@ -1063,6 +1232,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(337.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        13
+      </text>
       <line
         x1="375"
         x2="375"
@@ -1088,6 +1270,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(362.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        14
+      </text>
       <line
         x1="400"
         x2="400"
@@ -1113,6 +1308,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(387.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        15
+      </text>
       <ellipse
         cx="387.5"
         cy="93.75"
@@ -1172,6 +1380,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(412.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        16
+      </text>
       <line
         x1="450"
         x2="450"
@@ -1207,6 +1428,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(437.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        17
+      </text>
       <ellipse
         cx="437.5"
         cy="93.75"
@@ -1241,6 +1475,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(462.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        18
+      </text>
       <g transform="translate(487,0) rotate(0.0) scale( 1.00 , 1.00 )">
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
@@ -1252,6 +1499,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(487.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        19
+      </text>
       <ellipse
         cx="487.5"
         cy="93.75"
@@ -3577,6 +3837,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(12.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        0
+      </text>
       <line
         x1="50"
         x2="50"
@@ -3588,6 +3861,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(37.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        1
+      </text>
       <line
         x1="75"
         x2="75"
@@ -3613,6 +3899,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(62.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        2
+      </text>
       <line
         x1="100"
         x2="100"
@@ -3638,6 +3937,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(87.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        3
+      </text>
       <ellipse
         cx="87.5"
         cy="93.75"
@@ -3661,6 +3973,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(112.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        4
+      </text>
       <line
         x1="150"
         x2="150"
@@ -3696,6 +4021,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(137.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        5
+      </text>
       <ellipse
         cx="137.5"
         cy="93.75"
@@ -3719,6 +4057,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(162.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        6
+      </text>
       <line
         x1="200"
         x2="200"
@@ -3741,6 +4092,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(187.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        7
+      </text>
       <ellipse
         cx="187.5"
         cy="93.75"
@@ -3775,6 +4139,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(212.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        8
+      </text>
       <line
         x1="250"
         x2="250"
@@ -3786,6 +4163,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(237.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        9
+      </text>
       <line
         x1="275"
         x2="275"
@@ -3811,6 +4201,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(262.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        10
+      </text>
       <ellipse
         cx="262.5"
         cy="93.75"
@@ -3834,6 +4237,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(287.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        11
+      </text>
       <line
         x1="325"
         x2="325"
@@ -3880,6 +4296,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(312.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        12
+      </text>
       <ellipse
         cx="312.5"
         cy="87.5"
@@ -3915,6 +4344,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(337.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        13
+      </text>
       <line
         x1="375"
         x2="375"
@@ -3940,6 +4382,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(362.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        14
+      </text>
       <line
         x1="400"
         x2="400"
@@ -3965,6 +4420,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(387.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        15
+      </text>
       <ellipse
         cx="387.5"
         cy="93.75"
@@ -3988,6 +4456,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(412.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        16
+      </text>
       <line
         x1="450"
         x2="450"
@@ -4023,6 +4504,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(437.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        17
+      </text>
       <ellipse
         cx="437.5"
         cy="93.75"
@@ -4046,6 +4540,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(462.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        18
+      </text>
       <g transform="translate(487,0) rotate(0.0) scale( 1.00 , 1.00 )">
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
@@ -4057,6 +4564,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(487.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        19
+      </text>
       <ellipse
         cx="487.5"
         cy="93.75"
@@ -5763,6 +6283,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(12.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        0
+      </text>
       <line
         x1="50"
         x2="50"
@@ -5788,6 +6321,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(37.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        1
+      </text>
       <line
         x1="75"
         x2="75"
@@ -5799,6 +6345,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(62.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        2
+      </text>
       <line
         x1="100"
         x2="100"
@@ -5824,6 +6383,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(87.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        3
+      </text>
       <ellipse
         cx="87.5"
         cy="93.75"
@@ -5847,6 +6419,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(112.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        4
+      </text>
       <line
         x1="150"
         x2="150"
@@ -5882,6 +6467,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(137.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        5
+      </text>
       <ellipse
         cx="137.5"
         cy="93.75"
@@ -5916,6 +6514,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(162.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        6
+      </text>
       <line
         x1="200"
         x2="200"
@@ -5927,6 +6538,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(187.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        7
+      </text>
       <ellipse
         cx="187.5"
         cy="93.75"
@@ -5961,6 +6585,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(212.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        8
+      </text>
       <line
         x1="250"
         x2="250"
@@ -5972,6 +6609,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(237.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        9
+      </text>
       <line
         x1="275"
         x2="275"
@@ -5997,6 +6647,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(262.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        10
+      </text>
       <ellipse
         cx="262.5"
         cy="93.75"
@@ -6067,6 +6730,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(287.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        11
+      </text>
       <line
         x1="325"
         x2="325"
@@ -6078,6 +6754,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(312.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        12
+      </text>
       <ellipse
         cx="312.5"
         cy="87.5"
@@ -6127,6 +6816,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(337.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        13
+      </text>
       <line
         x1="375"
         x2="375"
@@ -6138,6 +6840,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(362.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        14
+      </text>
       <line
         x1="400"
         x2="400"
@@ -6163,6 +6878,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(387.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        15
+      </text>
       <ellipse
         cx="387.5"
         cy="93.75"
@@ -6186,6 +6914,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(412.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        16
+      </text>
       <line
         x1="450"
         x2="450"
@@ -6221,6 +6962,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(437.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        17
+      </text>
       <ellipse
         cx="437.5"
         cy="93.75"
@@ -6255,6 +7009,32 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(462.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        18
+      </text>
+      <text
+        x="0"
+        y="0"
+        transform="translate(487.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        19
+      </text>
       <ellipse
         cx="487.5"
         cy="93.75"
@@ -7906,6 +8686,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(12.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        0
+      </text>
       <line
         x1="50"
         x2="50"
@@ -7931,6 +8724,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(37.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        1
+      </text>
       <line
         x1="75"
         x2="75"
@@ -7942,6 +8748,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(62.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        2
+      </text>
       <line
         x1="100"
         x2="100"
@@ -7967,6 +8786,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(87.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        3
+      </text>
       <ellipse
         cx="87.5"
         cy="93.75"
@@ -7990,6 +8822,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(112.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        4
+      </text>
       <line
         x1="150"
         x2="150"
@@ -8001,6 +8846,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(137.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        5
+      </text>
       <ellipse
         cx="137.5"
         cy="93.75"
@@ -8024,6 +8882,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(162.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        6
+      </text>
       <line
         x1="200"
         x2="200"
@@ -8046,6 +8917,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(187.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        7
+      </text>
       <ellipse
         cx="187.5"
         cy="93.75"
@@ -8069,6 +8953,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(212.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        8
+      </text>
       <line
         x1="250"
         x2="250"
@@ -8080,6 +8977,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(237.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        9
+      </text>
       <line
         x1="275"
         x2="275"
@@ -8105,6 +9015,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(262.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        10
+      </text>
       <ellipse
         cx="262.5"
         cy="93.75"
@@ -8128,6 +9051,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(287.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        11
+      </text>
       <line
         x1="325"
         x2="325"
@@ -8139,6 +9075,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(312.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        12
+      </text>
       <ellipse
         cx="312.5"
         cy="87.5"
@@ -8188,6 +9137,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(337.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        13
+      </text>
       <line
         x1="375"
         x2="375"
@@ -8199,6 +9161,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(362.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        14
+      </text>
       <line
         x1="400"
         x2="400"
@@ -8224,6 +9199,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(387.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        15
+      </text>
       <ellipse
         cx="387.5"
         cy="93.75"
@@ -8247,6 +9235,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(412.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        16
+      </text>
       <line
         x1="450"
         x2="450"
@@ -8258,6 +9259,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(437.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        17
+      </text>
       <ellipse
         cx="437.5"
         cy="93.75"
@@ -8281,6 +9295,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(462.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        18
+      </text>
       <g transform="translate(487,0) rotate(0.0) scale( 1.00 , 1.00 )">
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
@@ -8292,6 +9319,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(487.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        19
+      </text>
       <ellipse
         cx="487.5"
         cy="93.75"
@@ -9509,6 +10549,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(12.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        0
+      </text>
       <line
         x1="50"
         x2="50"
@@ -9520,6 +10573,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(37.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        1
+      </text>
       <line
         x1="75"
         x2="75"
@@ -9545,6 +10611,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(62.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        2
+      </text>
       <line
         x1="100"
         x2="100"
@@ -9570,6 +10649,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(87.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        3
+      </text>
       <ellipse
         cx="87.5"
         cy="93.75"
@@ -9593,6 +10685,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(112.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        4
+      </text>
       <line
         x1="150"
         x2="150"
@@ -9604,6 +10709,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(137.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        5
+      </text>
       <ellipse
         cx="137.5"
         cy="93.75"
@@ -9627,6 +10745,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(162.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        6
+      </text>
       <line
         x1="200"
         x2="200"
@@ -9649,6 +10780,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(187.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        7
+      </text>
       <ellipse
         cx="187.5"
         cy="93.75"
@@ -9672,6 +10816,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(212.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        8
+      </text>
       <line
         x1="250"
         x2="250"
@@ -9683,6 +10840,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(237.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        9
+      </text>
       <line
         x1="275"
         x2="275"
@@ -9708,6 +10878,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(262.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        10
+      </text>
       <ellipse
         cx="262.5"
         cy="93.75"
@@ -9731,6 +10914,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(287.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        11
+      </text>
       <line
         x1="325"
         x2="325"
@@ -9742,6 +10938,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(312.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        12
+      </text>
       <ellipse
         cx="312.5"
         cy="87.5"
@@ -9777,6 +10986,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(337.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        13
+      </text>
       <line
         x1="375"
         x2="375"
@@ -9802,6 +11024,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(362.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        14
+      </text>
       <line
         x1="400"
         x2="400"
@@ -9827,6 +11062,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(387.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        15
+      </text>
       <ellipse
         cx="387.5"
         cy="93.75"
@@ -9850,6 +11098,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(412.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        16
+      </text>
       <line
         x1="450"
         x2="450"
@@ -9861,6 +11122,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(437.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        17
+      </text>
       <ellipse
         cx="437.5"
         cy="93.75"
@@ -9884,6 +11158,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(462.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        18
+      </text>
       <g transform="translate(487,0) rotate(0.0) scale( 1.00 , 1.00 )">
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
@@ -9895,6 +11182,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(487.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        19
+      </text>
       <ellipse
         cx="487.5"
         cy="93.75"
@@ -11112,6 +12412,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(12.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        0
+      </text>
       <line
         x1="50"
         x2="50"
@@ -11137,6 +12450,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(37.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        1
+      </text>
       <line
         x1="75"
         x2="75"
@@ -11148,6 +12474,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(62.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        2
+      </text>
       <line
         x1="100"
         x2="100"
@@ -11173,6 +12512,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(87.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        3
+      </text>
       <ellipse
         cx="87.5"
         cy="93.75"
@@ -11196,6 +12548,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(112.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        4
+      </text>
       <line
         x1="150"
         x2="150"
@@ -11207,6 +12572,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(137.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        5
+      </text>
       <ellipse
         cx="137.5"
         cy="93.75"
@@ -11241,6 +12619,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(162.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        6
+      </text>
       <line
         x1="200"
         x2="200"
@@ -11252,6 +12643,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(187.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        7
+      </text>
       <ellipse
         cx="187.5"
         cy="93.75"
@@ -11275,6 +12679,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(212.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        8
+      </text>
       <line
         x1="250"
         x2="250"
@@ -11286,6 +12703,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(237.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        9
+      </text>
       <line
         x1="275"
         x2="275"
@@ -11311,6 +12741,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(262.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        10
+      </text>
       <ellipse
         cx="262.5"
         cy="93.75"
@@ -11334,6 +12777,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(287.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        11
+      </text>
       <line
         x1="325"
         x2="325"
@@ -11345,6 +12801,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(312.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        12
+      </text>
       <ellipse
         cx="312.5"
         cy="87.5"
@@ -11394,6 +12863,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(337.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        13
+      </text>
       <line
         x1="375"
         x2="375"
@@ -11405,6 +12887,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(362.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        14
+      </text>
       <line
         x1="400"
         x2="400"
@@ -11430,6 +12925,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(387.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        15
+      </text>
       <ellipse
         cx="387.5"
         cy="93.75"
@@ -11453,6 +12961,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(412.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        16
+      </text>
       <line
         x1="450"
         x2="450"
@@ -11464,6 +12985,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(437.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        17
+      </text>
       <ellipse
         cx="437.5"
         cy="93.75"
@@ -11498,6 +13032,32 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(462.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        18
+      </text>
+      <text
+        x="0"
+        y="0"
+        transform="translate(487.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        19
+      </text>
       <ellipse
         cx="487.5"
         cy="93.75"
@@ -12715,6 +14275,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(12.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        0
+      </text>
       <line
         x1="50"
         x2="50"
@@ -12740,6 +14313,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(37.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        1
+      </text>
       <line
         x1="75"
         x2="75"
@@ -12751,6 +14337,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(62.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        2
+      </text>
       <line
         x1="100"
         x2="100"
@@ -12776,6 +14375,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(87.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        3
+      </text>
       <ellipse
         cx="87.5"
         cy="93.75"
@@ -12799,6 +14411,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(112.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        4
+      </text>
       <line
         x1="150"
         x2="150"
@@ -12810,6 +14435,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(137.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        5
+      </text>
       <ellipse
         cx="137.5"
         cy="93.75"
@@ -12844,6 +14482,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(162.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        6
+      </text>
       <line
         x1="200"
         x2="200"
@@ -12855,6 +14506,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(187.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        7
+      </text>
       <ellipse
         cx="187.5"
         cy="93.75"
@@ -12878,6 +14542,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(212.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        8
+      </text>
       <line
         x1="250"
         x2="250"
@@ -12903,6 +14580,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(237.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        9
+      </text>
       <line
         x1="275"
         x2="275"
@@ -12914,6 +14604,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(262.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        10
+      </text>
       <ellipse
         cx="262.5"
         cy="93.75"
@@ -12937,6 +14640,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(287.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        11
+      </text>
       <line
         x1="325"
         x2="325"
@@ -12948,6 +14664,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(312.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        12
+      </text>
       <ellipse
         cx="312.5"
         cy="87.5"
@@ -12997,6 +14726,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(337.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        13
+      </text>
       <line
         x1="375"
         x2="375"
@@ -13008,6 +14750,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(362.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        14
+      </text>
       <line
         x1="400"
         x2="400"
@@ -13033,6 +14788,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(387.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        15
+      </text>
       <ellipse
         cx="387.5"
         cy="93.75"
@@ -13056,6 +14824,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(412.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        16
+      </text>
       <line
         x1="450"
         x2="450"
@@ -13067,6 +14848,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(437.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        17
+      </text>
       <ellipse
         cx="437.5"
         cy="93.75"
@@ -13101,6 +14895,32 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(462.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        18
+      </text>
+      <text
+        x="0"
+        y="0"
+        transform="translate(487.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        19
+      </text>
       <ellipse
         cx="487.5"
         cy="93.75"
@@ -14292,6 +16112,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(12.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        0
+      </text>
       <line
         x1="50"
         x2="50"
@@ -14303,6 +16136,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(37.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        1
+      </text>
       <line
         x1="75"
         x2="75"
@@ -14314,6 +16160,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(62.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        2
+      </text>
       <line
         x1="100"
         x2="100"
@@ -14339,6 +16198,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(87.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        3
+      </text>
       <ellipse
         cx="87.5"
         cy="93.75"
@@ -14362,6 +16234,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(112.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        4
+      </text>
       <line
         x1="150"
         x2="150"
@@ -14397,6 +16282,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(137.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        5
+      </text>
       <ellipse
         cx="137.5"
         cy="93.75"
@@ -14420,6 +16318,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(162.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        6
+      </text>
       <line
         x1="200"
         x2="200"
@@ -14431,6 +16342,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(187.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        7
+      </text>
       <ellipse
         cx="187.5"
         cy="93.75"
@@ -14454,6 +16378,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(212.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        8
+      </text>
       <line
         x1="250"
         x2="250"
@@ -14465,6 +16402,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(237.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        9
+      </text>
       <line
         x1="275"
         x2="275"
@@ -14490,6 +16440,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(262.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        10
+      </text>
       <ellipse
         cx="262.5"
         cy="93.75"
@@ -14513,6 +16476,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(287.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        11
+      </text>
       <line
         x1="325"
         x2="325"
@@ -14524,6 +16500,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(312.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        12
+      </text>
       <ellipse
         cx="312.5"
         cy="87.5"
@@ -14559,6 +16548,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(337.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        13
+      </text>
       <line
         x1="375"
         x2="375"
@@ -14570,6 +16572,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(362.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        14
+      </text>
       <line
         x1="400"
         x2="400"
@@ -14595,6 +16610,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(387.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        15
+      </text>
       <ellipse
         cx="387.5"
         cy="93.75"
@@ -14618,6 +16646,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(412.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        16
+      </text>
       <line
         x1="450"
         x2="450"
@@ -14653,6 +16694,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(437.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        17
+      </text>
       <ellipse
         cx="437.5"
         cy="93.75"
@@ -14676,6 +16730,32 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(462.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        18
+      </text>
+      <text
+        x="0"
+        y="0"
+        transform="translate(487.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        19
+      </text>
       <ellipse
         cx="487.5"
         cy="93.75"
@@ -15901,6 +17981,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(12.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        0
+      </text>
       <line
         x1="50"
         x2="50"
@@ -15912,6 +18005,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(37.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        1
+      </text>
       <line
         x1="75"
         x2="75"
@@ -15923,6 +18029,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(62.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        2
+      </text>
       <line
         x1="100"
         x2="100"
@@ -15948,6 +18067,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(87.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        3
+      </text>
       <ellipse
         cx="87.5"
         cy="93.75"
@@ -15971,6 +18103,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(112.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        4
+      </text>
       <line
         x1="150"
         x2="150"
@@ -15982,6 +18127,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(137.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        5
+      </text>
       <ellipse
         cx="137.5"
         cy="93.75"
@@ -16005,6 +18163,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(162.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        6
+      </text>
       <line
         x1="200"
         x2="200"
@@ -16016,6 +18187,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(187.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        7
+      </text>
       <ellipse
         cx="187.5"
         cy="93.75"
@@ -16050,6 +18234,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(212.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        8
+      </text>
       <line
         x1="250"
         x2="250"
@@ -16061,6 +18258,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(237.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        9
+      </text>
       <line
         x1="275"
         x2="275"
@@ -16086,6 +18296,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(262.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        10
+      </text>
       <ellipse
         cx="262.5"
         cy="93.75"
@@ -16109,6 +18332,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(287.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        11
+      </text>
       <line
         x1="325"
         x2="325"
@@ -16120,6 +18356,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(312.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        12
+      </text>
       <ellipse
         cx="312.5"
         cy="87.5"
@@ -16155,6 +18404,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(337.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        13
+      </text>
       <line
         x1="375"
         x2="375"
@@ -16166,6 +18428,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(362.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        14
+      </text>
       <line
         x1="400"
         x2="400"
@@ -16191,6 +18466,19 @@
             "
           />
       </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(387.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        15
+      </text>
       <ellipse
         cx="387.5"
         cy="93.75"
@@ -16214,6 +18502,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(412.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        16
+      </text>
       <line
         x1="450"
         x2="450"
@@ -16225,6 +18526,19 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(437.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        17
+      </text>
       <ellipse
         cx="437.5"
         cy="93.75"
@@ -16248,6 +18562,32 @@
           stroke-opacity:1.0;
           "
         />
+      <text
+        x="0"
+        y="0"
+        transform="translate(462.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        18
+      </text>
+      <text
+        x="0"
+        y="0"
+        transform="translate(487.50,-7.50) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        19
+      </text>
       <ellipse
         cx="487.5"
         cy="93.75"

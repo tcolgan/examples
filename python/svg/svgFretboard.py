@@ -5,6 +5,7 @@ from svg.svgGROUP import svgGroup
 from svg.svgLINE import svgLine
 from svg.svgRECT import svgRect
 from svg.svgELLIPSE import svgEllipse
+from svg.svgTEXT import svgText
 from svgPitch import svgPitch
 
 DEFAULT_STRING_SEPARATION = 25
@@ -46,11 +47,16 @@ class svgFretboard(svgGroup):
           self.add( svgPitch( xloc - DEFAULT_FRET_SEPARATION / 2 , yloc , note ))
 
         if string == 0 :
+          xloc_dot = xloc - DEFAULT_FRET_SEPARATION * .5
+          yloc_dot = yloc + height + DEFAULT_STRING_SEPARATION * .75
+          yloc_text = yloc - DEFAULT_FRET_SEPARATION * .3
+          self.add( svgText( xloc_dot , yloc_text , str( fret ) ))
           if dots[fret] == 1 :
-            self.addCircle( DOT_RADIUS , xloc - DEFAULT_FRET_SEPARATION / 2 , yloc + height + DEFAULT_STRING_SEPARATION * .75 )
+            self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot )
           elif dots[fret] == 2 :
-            self.addCircle( DOT_RADIUS , xloc - DEFAULT_FRET_SEPARATION / 2 , yloc + height + DEFAULT_STRING_SEPARATION * .5 )
-            self.addCircle( DOT_RADIUS , xloc - DEFAULT_FRET_SEPARATION / 2 , yloc + height + DEFAULT_STRING_SEPARATION * 1.0 )
+            yoffset = DEFAULT_STRING_SEPARATION * .25
+            self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot - yoffset )
+            self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot + yoffset )
           
         xloc += DEFAULT_FRET_SEPARATION
             
