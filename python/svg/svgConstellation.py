@@ -14,7 +14,7 @@ PITCH_LOCATION_SCALE = 1.2
 
 class svgConstellation(svgGroup):
   
-  def __init__(self,dia,xloc,yloc,pitches=[]):
+  def __init__(self,dia,xloc,yloc,pitches=[] , key_text = "G"):
 
     super().__init__()
     self.add( svgEllipse( xloc , yloc , dia , dia))
@@ -29,7 +29,7 @@ class svgConstellation(svgGroup):
       self. add( svgLine( x1 , y1 , x2 , y2 ) )
   
 
-    key = svgKey( "D" )
+    key = svgKey( key_text )
     for pitch in pitches:
       ang = pitch * 30 - 90
 

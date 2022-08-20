@@ -55,14 +55,14 @@ pitch_arrays = [
   ]
 
 
-key_text = "E"
+key_text = "C"
 title = "KEY : " + key_text
 dwg.add( svgText(TITLE_OFFSET_X,TITLE_OFFSET_Y,title,fontSize=24,anchor="left"))
 
 for text,pitches in pitch_arrays:
   
   key = svgKey( key_text )
-  dwg.add( svgConstellation( diameter , xloc , yloc , pitches  ))
+  dwg.add( svgConstellation( diameter , xloc , yloc , pitches , key_text = key_text ) )
   dwg.add( svgFretboard( xloc + 2*diameter ,
                          yloc - diameter ,
                          NUMBER_FRETS ,

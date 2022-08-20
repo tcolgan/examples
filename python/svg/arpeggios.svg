@@ -19,7 +19,7 @@
         text-anchor:left;
         "
       >
-      KEY : E
+      KEY : C
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -188,7 +188,7 @@
           text-anchor:middle;
           "
         >
-        D
+        C
       </text>
       <line
         x1="120.0"
@@ -236,7 +236,7 @@
           text-anchor:middle;
           "
         >
-        C
+        D
       </text>
       <line
         x1="120.0"
@@ -260,7 +260,7 @@
           text-anchor:middle;
           "
         >
-        B
+        D#
       </text>
       <line
         x1="120.0"
@@ -284,7 +284,7 @@
           text-anchor:middle;
           "
         >
-        A#
+        E
       </text>
       <line
         x1="120.0"
@@ -308,7 +308,7 @@
           text-anchor:middle;
           "
         >
-        A
+        F
       </text>
       <line
         x1="120.0"
@@ -332,7 +332,7 @@
           text-anchor:middle;
           "
         >
-        G#
+        F#
       </text>
       <line
         x1="120.0"
@@ -380,7 +380,7 @@
           text-anchor:middle;
           "
         >
-        F#
+        G#
       </text>
       <line
         x1="120.0"
@@ -404,7 +404,7 @@
           text-anchor:middle;
           "
         >
-        F
+        A
       </text>
       <line
         x1="120.0"
@@ -428,7 +428,7 @@
           text-anchor:middle;
           "
         >
-        E
+        A#
       </text>
       <line
         x1="120.0"
@@ -452,7 +452,7 @@
           text-anchor:middle;
           "
         >
-        D#
+        B
       </text>
     </g>
     <g transform="translate(200,35) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -3455,7 +3455,7 @@
           text-anchor:middle;
           "
         >
-        D
+        C
       </text>
       <line
         x1="120.0"
@@ -3479,7 +3479,7 @@
           text-anchor:middle;
           "
         >
-        C
+        D
       </text>
       <line
         x1="120.0"
@@ -3503,7 +3503,7 @@
           text-anchor:middle;
           "
         >
-        A#
+        E
       </text>
       <line
         x1="120.0"
@@ -3527,7 +3527,7 @@
           text-anchor:middle;
           "
         >
-        A
+        F
       </text>
       <line
         x1="120.0"
@@ -3575,7 +3575,7 @@
           text-anchor:middle;
           "
         >
-        F
+        A
       </text>
       <line
         x1="120.0"
@@ -3599,7 +3599,7 @@
           text-anchor:middle;
           "
         >
-        D#
+        B
       </text>
     </g>
     <g transform="translate(200,155) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -5831,7 +5831,7 @@
           text-anchor:middle;
           "
         >
-        D
+        C
       </text>
       <line
         x1="120.0"
@@ -5855,7 +5855,7 @@
           text-anchor:middle;
           "
         >
-        C
+        D
       </text>
       <line
         x1="120.0"
@@ -5879,7 +5879,7 @@
           text-anchor:middle;
           "
         >
-        B
+        D#
       </text>
       <line
         x1="120.0"
@@ -5903,7 +5903,7 @@
           text-anchor:middle;
           "
         >
-        A
+        F
       </text>
       <line
         x1="120.0"
@@ -5951,7 +5951,7 @@
           text-anchor:middle;
           "
         >
-        F#
+        G#
       </text>
       <line
         x1="120.0"
@@ -5975,7 +5975,7 @@
           text-anchor:middle;
           "
         >
-        E
+        A#
       </text>
     </g>
     <g transform="translate(200,275) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -8293,7 +8293,7 @@
           text-anchor:middle;
           "
         >
-        D
+        C
       </text>
       <line
         x1="120.0"
@@ -8317,7 +8317,7 @@
           text-anchor:middle;
           "
         >
-        A#
+        E
       </text>
       <line
         x1="120.0"
@@ -8365,7 +8365,7 @@
           text-anchor:middle;
           "
         >
-        E
+        A#
       </text>
     </g>
     <g transform="translate(200,395) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -10169,7 +10169,7 @@
           text-anchor:middle;
           "
         >
-        D
+        C
       </text>
       <line
         x1="120.0"
@@ -10193,7 +10193,7 @@
           text-anchor:middle;
           "
         >
-        A#
+        E
       </text>
       <line
         x1="120.0"
@@ -10241,7 +10241,7 @@
           text-anchor:middle;
           "
         >
-        D#
+        B
       </text>
     </g>
     <g transform="translate(200,515) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -12031,7 +12031,7 @@
           text-anchor:middle;
           "
         >
-        D
+        C
       </text>
       <line
         x1="120.0"
@@ -12055,7 +12055,7 @@
           text-anchor:middle;
           "
         >
-        B
+        D#
       </text>
       <line
         x1="120.0"
@@ -12103,7 +12103,7 @@
           text-anchor:middle;
           "
         >
-        E
+        A#
       </text>
     </g>
     <g transform="translate(200,635) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -13907,7 +13907,7 @@
           text-anchor:middle;
           "
         >
-        D
+        C
       </text>
       <line
         x1="120.0"
@@ -13931,7 +13931,7 @@
           text-anchor:middle;
           "
         >
-        B
+        D#
       </text>
       <line
         x1="120.0"
@@ -13955,7 +13955,7 @@
           text-anchor:middle;
           "
         >
-        G#
+        F#
       </text>
       <line
         x1="120.0"
@@ -13979,7 +13979,7 @@
           text-anchor:middle;
           "
         >
-        E
+        A#
       </text>
     </g>
     <g transform="translate(200,755) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -15783,7 +15783,7 @@
           text-anchor:middle;
           "
         >
-        D
+        C
       </text>
       <line
         x1="120.0"
@@ -15807,7 +15807,7 @@
           text-anchor:middle;
           "
         >
-        C
+        D
       </text>
       <line
         x1="120.0"
@@ -17604,7 +17604,7 @@
           text-anchor:middle;
           "
         >
-        D
+        C
       </text>
       <line
         x1="120.0"
@@ -17628,7 +17628,7 @@
           text-anchor:middle;
           "
         >
-        A
+        F
       </text>
       <line
         x1="120.0"
