@@ -10,7 +10,8 @@ from svg.svgTEXT import svgText
 
 
 TICK_FRACTION = .9
-PITCH_LOCATION_SCALE = 1.2
+PITCH_LOCATION_SCALE = .2
+TEXT_OFFSET = 6
 
 class svgConstellation(svgGroup):
   
@@ -32,17 +33,24 @@ class svgConstellation(svgGroup):
     key = svgKey( key_text )
     for pitch in pitches:
       ang = pitch * 30 - 90
+      
+      cos_ang = math.cos( 2 * math.pi * ang / 360 )
+      sin_ang = math.sin( 2 * math.pi * ang / 360 )
 
       x1 = xloc
       y1 = yloc
 
-      x2 = xloc + dia * math.cos( 2 * math.pi * ang / 360 )
-      y2 = yloc + dia * math.sin( 2 * math.pi * ang / 360 )
+      x2 = xloc + dia * cos_ang
+      y2 = yloc + dia * sin_ang
       
       self.add( svgLine( x1 , y1 , x2 , y2 ) )
       
-      xpitch = xloc + PITCH_LOCATION_SCALE * dia * math.cos( 2 * math.pi * ang / 360 )
-      ypitch = yloc + PITCH_LOCATION_SCALE * dia * math.sin( 2 * math.pi * ang / 360 )
+      xpitch = xloc + ( 1 + PITCH_LOCATION_SCALE ) * dia * cos_ang
+      ypitch = yloc + ( 1 + PITCH_LOCATION_SCALE ) * dia * sin_ang
   
-      self.add( svgText( xpitch , ypitch , key.getNote( pitch ) ) )
-#      self.add( svgPitch( xpitch , ypitch , pitch ) )
+      self.add( svgPitch( xpitch , ypitch , pitch ) )
+
+      xtext = xloc + ( 1 + 3 * PITCH_LOCATION_SCALE ) * dia * cos_ang
+      ytext = yloc + ( 1 + 3 * PITCH_LOCATION_SCALE ) * dia * sin_ang + TEXT_OFFSET
+
+      self.add( svgText( xtext , ytext , key.getNote( pitch ) ) )

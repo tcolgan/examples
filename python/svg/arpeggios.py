@@ -23,6 +23,8 @@ NUMBER_FRETS = 20
 NUMBER_STRINGS = 4
 NUMBER_FRETS = 20
 
+CIRCLE_SCALE = .8
+
 
 
 width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
@@ -40,7 +42,7 @@ diameter = .4 * PIXELS_PER_INCH
 xloc = 1.2 * PIXELS_PER_INCH
 yloc = .75 * PIXELS_PER_INCH
 
-text_offset = 1.4 * diameter
+text_offset = 2 * diameter
 
 pitch_arrays = [
     ( "chromatic scale" , [0,1,2,3,4,5,6,7,8,9,10,11] ) ,
@@ -62,7 +64,7 @@ dwg.add( svgText(TITLE_OFFSET_X,TITLE_OFFSET_Y,title,fontSize=24,anchor="left"))
 for text,pitches in pitch_arrays:
   
   key = svgKey( key_text )
-  dwg.add( svgConstellation( diameter , xloc , yloc , pitches , key_text = key_text ) )
+  dwg.add( svgConstellation( CIRCLE_SCALE * diameter , xloc , yloc , pitches , key_text = key_text ) )
   dwg.add( svgFretboard( xloc + 2*diameter ,
                          yloc - diameter ,
                          NUMBER_FRETS ,
