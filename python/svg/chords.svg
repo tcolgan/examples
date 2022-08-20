@@ -11,7 +11,7 @@
     <g transform="translate(50,35) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -122,7 +122,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -196,21 +196,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -227,141 +216,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -451,63 +307,8 @@
           />
       </g>
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -594,63 +395,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -739,61 +485,6 @@
             "
           />
       </g>
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -801,17 +492,17 @@
       transform="translate(25.00,75.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      D7
+      D7 (IV7)
     </text>
     <g transform="translate(50,155) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -936,7 +627,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -996,21 +687,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -1027,141 +707,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -1251,63 +798,8 @@
           />
       </g>
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -1397,63 +889,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -1539,61 +976,6 @@
           stroke-opacity:1.0;
           "
         />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -1601,17 +983,17 @@
       transform="translate(25.00,195.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Gmaj7
+      Gmaj7 (Imaj7)
     </text>
     <g transform="translate(50,275) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -1736,7 +1118,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -1796,21 +1178,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -1827,141 +1198,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -2051,63 +1289,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -2194,63 +1377,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -2339,61 +1467,6 @@
           stroke-opacity:1.0;
           "
         />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -2401,17 +1474,17 @@
       transform="translate(25.00,315.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Cmaj7
+      Cmaj7 (IVmaj7)
     </text>
     <g transform="translate(50,395) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -2536,7 +1609,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -2596,21 +1669,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -2627,141 +1689,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -2851,63 +1780,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -2997,63 +1871,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -3139,61 +1958,6 @@
           stroke-opacity:1.0;
           "
         />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -3201,17 +1965,17 @@
       transform="translate(25.00,435.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      F#m7b5
+      F#m7b5 (vii7b5)
     </text>
     <g transform="translate(50,515) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -3322,7 +2086,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -3396,21 +2160,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -3427,141 +2180,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -3648,63 +2268,8 @@
           />
       </g>
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -3794,63 +2359,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -3931,61 +2441,6 @@
       <line
         x1="150"
         x2="150"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
         y1="0"
         y2="75"
         style="
@@ -4001,17 +2456,17 @@
       transform="translate(25.00,555.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Bmin7
+      Bmin7 (iii7)
     </text>
     <g transform="translate(50,635) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -4136,7 +2591,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -4196,21 +2651,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -4227,141 +2671,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -4451,63 +2762,8 @@
           />
       </g>
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -4594,63 +2850,8 @@
           />
       </g>
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -4731,61 +2932,6 @@
       <line
         x1="150"
         x2="150"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
         y1="0"
         y2="75"
         style="
@@ -4801,17 +2947,17 @@
       transform="translate(25.00,675.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Emin7
+      Emin7 (vi7)
     </text>
     <g transform="translate(50,755) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -4936,7 +3082,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -4996,21 +3142,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -5027,141 +3162,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -5248,63 +3250,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -5394,63 +3341,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -5539,61 +3431,6 @@
           stroke-opacity:1.0;
           "
         />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -5601,17 +3438,17 @@
       transform="translate(25.00,795.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Amin7
+      Amin7 (ii7)
     </text>
     <g transform="translate(475,35) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -5736,7 +3573,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -5796,21 +3633,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -5827,141 +3653,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -6051,63 +3744,8 @@
           />
       </g>
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -6197,63 +3835,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -6339,61 +3922,6 @@
           stroke-opacity:1.0;
           "
         />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -6401,17 +3929,17 @@
       transform="translate(450.00,75.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      G7
+      G7 (IV7)
     </text>
     <g transform="translate(475,155) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -6536,7 +4064,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -6596,21 +4124,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -6627,141 +4144,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -6851,63 +4235,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -6994,63 +4323,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -7139,61 +4413,6 @@
           stroke-opacity:1.0;
           "
         />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -7201,17 +4420,17 @@
       transform="translate(450.00,195.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Cmaj7
+      Cmaj7 (Imaj7)
     </text>
     <g transform="translate(475,275) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -7255,6 +4474,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(37,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -7303,30 +4536,6 @@
           stroke-opacity:1.0;
           "
         />
-      <g transform="translate(87,0) rotate(0.0) scale( 1.00 , 1.00 )">
-        <line
-          x1="5.0"
-          x2="-5.0"
-          y1="5.0"
-          y2="-5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-        <line
-          x1="-5.0"
-          x2="5.0"
-          y1="5.0"
-          y2="-5.0"
-          style="
-            stroke:black;
-            stroke-width:1;
-            stroke-opacity:1.0;
-            "
-          />
-      </g>
       <text
         x="0"
         y="0"
@@ -7346,7 +4555,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -7406,21 +4615,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -7437,141 +4635,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -7661,63 +4726,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -7807,63 +4817,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -7905,6 +4860,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -7927,78 +4893,9 @@
           stroke-opacity:1.0;
           "
         />
-      <g transform="translate(112,75) rotate(0.0) scale( 1.00 , 1.00 )">
-        <ellipse
-          cx="0"
-          cy="0"
-          rx="5.0"
-          ry="5.0"
-          style="
-            fill:black;
-            stroke:black;
-            stroke-width:1;
-            fill-opacity:1.00;
-            "
-          />
-      </g>
       <line
         x1="150"
         x2="150"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
         y1="0"
         y2="75"
         style="
@@ -8014,17 +4911,17 @@
       transform="translate(450.00,315.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Fmaj7
+      Fmaj7 (IVmaj7)
     </text>
     <g transform="translate(475,395) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -8135,7 +5032,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -8209,21 +5106,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -8240,141 +5126,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -8461,63 +5214,8 @@
           />
       </g>
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -8607,63 +5305,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -8752,61 +5395,6 @@
           stroke-opacity:1.0;
           "
         />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -8814,17 +5402,17 @@
       transform="translate(450.00,435.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Bm7b5
+      Bm7b5 (vii7b5)
     </text>
     <g transform="translate(475,515) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -8949,7 +5537,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -9009,21 +5597,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -9040,141 +5617,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -9264,63 +5708,8 @@
           />
       </g>
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -9407,63 +5796,8 @@
           />
       </g>
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -9552,61 +5886,6 @@
           stroke-opacity:1.0;
           "
         />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -9614,17 +5893,17 @@
       transform="translate(450.00,555.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Emin7
+      Emin7 (iii7)
     </text>
     <g transform="translate(475,635) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -9749,7 +6028,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -9809,21 +6088,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -9840,141 +6108,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -10061,63 +6196,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -10207,63 +6287,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -10352,61 +6377,6 @@
           stroke-opacity:1.0;
           "
         />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -10414,17 +6384,17 @@
       transform="translate(450.00,675.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Amin7
+      Amin7 (vi7)
     </text>
     <g transform="translate(475,755) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="0"
         y2="0"
         style="
@@ -10535,7 +6505,7 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
@@ -10609,21 +6579,10 @@
         rx="3"
         ry="3"
         style="
-          fill:grey;
+          fill:lightgrey;
           stroke:black;
           stroke-width:1;
           fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
           "
         />
       <text
@@ -10640,141 +6599,8 @@
         6
       </text>
       <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(187.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        7
-      </text>
-      <ellipse
-        cx="187.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(212.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        8
-      </text>
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(237.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        9
-      </text>
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(262.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        10
-      </text>
-      <ellipse
-        cx="262.5"
-        cy="93.75"
-        rx="3"
-        ry="3"
-        style="
-          fill:grey;
-          stroke:black;
-          stroke-width:1;
-          fill-opacity:1.00;
-          "
-        />
-      <text
-        x="0"
-        y="0"
-        transform="translate(287.50,-7.50) rotate(0.00)"
-        style="
-          font-family:Arial;
-          font-size:12px;
-          fill:black;
-          text-anchor:middle;
-          "
-        >
-        11
-      </text>
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="25"
         y2="25"
         style="
@@ -10864,63 +6690,8 @@
           />
       </g>
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="50"
         y2="50"
         style="
@@ -11007,63 +6778,8 @@
           "
         />
       <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
         x1="0"
-        x2="300"
+        x2="175"
         y1="75"
         y2="75"
         style="
@@ -11152,61 +6868,6 @@
             "
           />
       </g>
-      <line
-        x1="175"
-        x2="175"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="200"
-        x2="200"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="225"
-        x2="225"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="250"
-        x2="250"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
-      <line
-        x1="275"
-        x2="275"
-        y1="0"
-        y2="75"
-        style="
-          stroke:black;
-          stroke-width:1;
-          stroke-opacity:1.0;
-          "
-        />
     </g>
     <text
       x="0"
@@ -11214,12 +6875,12 @@
       transform="translate(450.00,795.00) rotate(270.00)"
       style="
         font-family:Arial;
-        font-size:12px;
+        font-size:15px;
         fill:black;
         text-anchor:middle;
         "
       >
-      Dmin7
+      Dmin7 (ii7)
     </text>
   </g>
 </svg>

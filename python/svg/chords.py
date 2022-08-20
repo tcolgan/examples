@@ -18,7 +18,7 @@ HEIGHT_FONT_12 = 12 * FONT_TO_PIXELS
 
 VERTICAL_OFFSET = 1.2 * PIXELS_PER_INCH
 
-NUMBER_FRETS = 12
+NUMBER_FRETS = 7
 
 width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
 height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
@@ -48,7 +48,7 @@ fret_arrays_all = [
   [
     ( "G"  , "G7"     , [ 3,5,3,4] ),
     ( "C"  , "Cmaj7"  , [ 3,3,2,4] ),
-    ( "F"  , "Fmaj7"  , [ 3,3,2,4] ),
+    ( "F"  , "Fmaj7"  , [ 1,3,2,2] ),
     ( "B"  , "Bm7b5"  , [ 5,5,3,4] ),
     ( "E"  , "Emin7"  , [ 0,5,5,4] ),
     ( "A"  , "Amin7"  , [ 3,3,2,2] ),
@@ -56,8 +56,10 @@ fret_arrays_all = [
   ],
   ]
 
+suffix = ["IV7" , "Imaj7" , "IVmaj7" , "vii7b5" , "iii7" , "vi7" , "ii7"]
 
 for idx in range(len(fret_arrays_all)) :
+  suffix_idx = 0
   yloc = .75 * PIXELS_PER_INCH
   fret_arrays = fret_arrays_all[idx]
   for key_idx,text,frets in fret_arrays:
@@ -69,8 +71,11 @@ for idx in range(len(fret_arrays_all)) :
                            NUMBER_FRETS ,
                            key.makeChordMatrix( frets ) ,
                           ))
-    dwg.add( svgText( xloc - text_offset , yloc , text , rotate=270.0) )
+                          
+    text += " (" + suffix[ suffix_idx ] +")"
+    dwg.add( svgText( xloc - text_offset , yloc , text , rotate=270.0 , fontSize = 15 ) )
     yloc += VERTICAL_OFFSET
+    suffix_idx += 1
   xloc += HORIZONTAL_OFFSET
   
 dwg.draw()

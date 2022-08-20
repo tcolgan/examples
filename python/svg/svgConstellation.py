@@ -5,6 +5,8 @@ from svg.svgGROUP import svgGroup
 from svg.svgELLIPSE import svgEllipse
 from svg.svgLINE import svgLine
 from svgPitch import svgPitch
+from svgKey import svgKey
+from svg.svgTEXT import svgText
 
 
 TICK_FRACTION = .9
@@ -27,6 +29,7 @@ class svgConstellation(svgGroup):
       self. add( svgLine( x1 , y1 , x2 , y2 ) )
   
 
+    key = svgKey( "D" )
     for pitch in pitches:
       ang = pitch * 30 - 90
 
@@ -40,5 +43,6 @@ class svgConstellation(svgGroup):
       
       xpitch = xloc + PITCH_LOCATION_SCALE * dia * math.cos( 2 * math.pi * ang / 360 )
       ypitch = yloc + PITCH_LOCATION_SCALE * dia * math.sin( 2 * math.pi * ang / 360 )
-      
-      self.add( svgPitch( xpitch , ypitch , pitch ) )
+  
+      self.add( svgText( xpitch , ypitch , key.getNote( pitch ) ) )
+#      self.add( svgPitch( xpitch , ypitch , pitch ) )

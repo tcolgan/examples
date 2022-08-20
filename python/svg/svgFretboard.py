@@ -46,7 +46,7 @@ class svgFretboard(svgGroup):
 
         if string == 0 :
           xloc_dot = xloc - DEFAULT_FRET_SEPARATION * .5
-          yloc_dot = yloc + height + DEFAULT_STRING_SEPARATION * .75
+          yloc_dot = yloc + DEFAULT_STRING_SEPARATION * 1.5
           yloc_text = yloc - DEFAULT_FRET_SEPARATION * .3
           self.add( svgText( xloc_dot , yloc_text , str( fret ) ))
           if dots[fret] == 1 :
@@ -61,7 +61,7 @@ class svgFretboard(svgGroup):
       yloc += DEFAULT_STRING_SEPARATION
 
         
-  def addCircle(self,radius, xloc, yloc , colorFill="grey"):
+  def addCircle(self,radius, xloc, yloc , colorFill="lightgrey"):
     self.add( svgEllipse( xloc , yloc , radius , radius, colorFill=colorFill ) )
       
         

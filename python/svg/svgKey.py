@@ -78,3 +78,13 @@ class svgKey():
       matrix.append( array )
 #    print( "matrix = " , matrix )
     return matrix
+    
+  def getNote( self , interval ) :
+    offset_base = self.incr( self.key_offsets[ self._key ] , interval )
+    return( self.getNoteFromOffset( offset_base ) )
+    
+  def getNoteFromOffset( self , offset ) :
+    for key in self.key_offsets:
+      if self.key_offsets[key] == offset :
+        return( key )
+    return( "G" )
