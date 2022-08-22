@@ -8,7 +8,302 @@
   viewBox="0 0 850 1100"
   >
   <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
-    <g transform="translate(50,35) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="90.0"
+        cy="75.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="46.2"
+        y2="43.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="50.05846837100817"
+        y2="47.287187078897965"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="60.6"
+        y2="59.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="118.8"
+        x2="122.0"
+        y1="75.0"
+        y2="75.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="89.4"
+        y2="91.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="99.94153162899184"
+        y2="102.71281292110203"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="103.8"
+        y2="107.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.60000000000001"
+        x2="74.0"
+        y1="99.94153162899184"
+        y2="102.71281292110204"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.28718707889796"
+        y1="89.4"
+        y2="91.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="61.2"
+        x2="58.0"
+        y1="75.0"
+        y2="75.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.287187078897965"
+        y1="60.599999999999994"
+        y2="59.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.6"
+        x2="73.99999999999999"
+        y1="50.058468371008175"
+        y2="47.28718707889797"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="75.0"
+        y2="43.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(90,36) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(90.00,27.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        D
+      </text>
+      <line
+        x1="90.0"
+        x2="117.71281292110204"
+        y1="75.0"
+        y2="91.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(123,94) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(134.34,104.60) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        F#
+      </text>
+      <line
+        x1="90.0"
+        x2="74.0"
+        y1="75.0"
+        y2="102.71281292110204"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(70,108) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(64.40,123.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        A
+      </text>
+      <line
+        x1="90.0"
+        x2="73.99999999999999"
+        y1="75.0"
+        y2="47.28718707889797"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(70,41) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(64.40,34.66) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        C#
+      </text>
+    </g>
+    <g transform="translate(150,35) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -122,8 +417,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -196,8 +491,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -497,9 +792,304 @@
         text-anchor:middle;
         "
       >
-      D7 (IV7)
+      D7 (V7)
     </text>
-    <g transform="translate(50,155) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="90.0"
+        cy="195.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="166.2"
+        y2="163.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="170.05846837100816"
+        y2="167.28718707889797"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="180.6"
+        y2="179.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="118.8"
+        x2="122.0"
+        y1="195.0"
+        y2="195.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="209.4"
+        y2="211.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="219.94153162899184"
+        y2="222.71281292110203"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="223.8"
+        y2="227.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.60000000000001"
+        x2="74.0"
+        y1="219.94153162899184"
+        y2="222.71281292110203"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.28718707889796"
+        y1="209.4"
+        y2="211.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="61.2"
+        x2="58.0"
+        y1="195.0"
+        y2="195.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.287187078897965"
+        y1="180.6"
+        y2="179.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.6"
+        x2="73.99999999999999"
+        y1="170.0584683710082"
+        y2="167.28718707889797"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="195.0"
+        y2="163.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(90,156) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(90.00,147.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        G
+      </text>
+      <line
+        x1="90.0"
+        x2="117.71281292110204"
+        y1="195.0"
+        y2="211.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(123,214) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(134.34,224.60) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        B
+      </text>
+      <line
+        x1="90.0"
+        x2="74.0"
+        y1="195.0"
+        y2="222.71281292110203"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(70,228) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(64.40,243.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        D
+      </text>
+      <line
+        x1="90.0"
+        x2="62.287187078897965"
+        y1="195.0"
+        y2="179.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(56,175) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(45.66,173.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        F
+      </text>
+    </g>
+    <g transform="translate(150,155) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -627,8 +1217,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -687,8 +1277,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -990,7 +1580,302 @@
       >
       Gmaj7 (Imaj7)
     </text>
-    <g transform="translate(50,275) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="90.0"
+        cy="315.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="286.2"
+        y2="283.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="290.0584683710082"
+        y2="287.28718707889794"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="300.6"
+        y2="299.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="118.8"
+        x2="122.0"
+        y1="315.0"
+        y2="315.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="329.4"
+        y2="331.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="339.9415316289918"
+        y2="342.71281292110206"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="343.8"
+        y2="347.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.60000000000001"
+        x2="74.0"
+        y1="339.9415316289918"
+        y2="342.71281292110206"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.28718707889796"
+        y1="329.4"
+        y2="331.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="61.2"
+        x2="58.0"
+        y1="315.0"
+        y2="315.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.287187078897965"
+        y1="300.6"
+        y2="299.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.6"
+        x2="73.99999999999999"
+        y1="290.0584683710082"
+        y2="287.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="315.0"
+        y2="283.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(90,276) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(90.00,267.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        C
+      </text>
+      <line
+        x1="90.0"
+        x2="117.71281292110204"
+        y1="315.0"
+        y2="331.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(123,334) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(134.34,344.60) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        E
+      </text>
+      <line
+        x1="90.0"
+        x2="74.0"
+        y1="315.0"
+        y2="342.71281292110206"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(70,348) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(64.40,363.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        G
+      </text>
+      <line
+        x1="90.0"
+        x2="62.287187078897965"
+        y1="315.0"
+        y2="299.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(56,295) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(45.66,293.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        A#
+      </text>
+    </g>
+    <g transform="translate(150,275) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -1118,8 +2003,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -1178,8 +2063,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -1481,7 +2366,302 @@
       >
       Cmaj7 (IVmaj7)
     </text>
-    <g transform="translate(50,395) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="90.0"
+        cy="435.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="406.2"
+        y2="403.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="410.0584683710082"
+        y2="407.28718707889794"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="420.6"
+        y2="419.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="118.8"
+        x2="122.0"
+        y1="435.0"
+        y2="435.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="449.4"
+        y2="451.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="459.9415316289918"
+        y2="462.71281292110206"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="463.8"
+        y2="467.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.60000000000001"
+        x2="74.0"
+        y1="459.9415316289918"
+        y2="462.71281292110206"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.28718707889796"
+        y1="449.4"
+        y2="451.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="61.2"
+        x2="58.0"
+        y1="435.0"
+        y2="435.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.287187078897965"
+        y1="420.6"
+        y2="419.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.6"
+        x2="73.99999999999999"
+        y1="410.0584683710082"
+        y2="407.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="435.0"
+        y2="403.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(90,396) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(90.00,387.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        F#
+      </text>
+      <line
+        x1="90.0"
+        x2="122.0"
+        y1="435.0"
+        y2="435.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(128,435) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(141.20,439.00) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        A
+      </text>
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="435.0"
+        y2="467.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(90,473) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(90.00,490.20) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        C
+      </text>
+      <line
+        x1="90.0"
+        x2="62.287187078897965"
+        y1="435.0"
+        y2="419.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(56,415) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(45.66,413.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        E
+      </text>
+    </g>
+    <g transform="translate(150,395) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -1609,8 +2789,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -1669,8 +2849,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -1972,7 +3152,302 @@
       >
       F#m7b5 (vii7b5)
     </text>
-    <g transform="translate(50,515) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="90.0"
+        cy="555.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="526.2"
+        y2="523.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="530.0584683710082"
+        y2="527.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="540.6"
+        y2="539.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="118.8"
+        x2="122.0"
+        y1="555.0"
+        y2="555.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="569.4"
+        y2="571.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="579.9415316289918"
+        y2="582.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="583.8"
+        y2="587.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.60000000000001"
+        x2="74.0"
+        y1="579.9415316289918"
+        y2="582.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.28718707889796"
+        y1="569.4"
+        y2="571.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="61.2"
+        x2="58.0"
+        y1="555.0"
+        y2="555.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.287187078897965"
+        y1="540.6"
+        y2="539.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.6"
+        x2="73.99999999999999"
+        y1="530.0584683710082"
+        y2="527.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="555.0"
+        y2="523.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(90,516) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(90.00,507.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        B
+      </text>
+      <line
+        x1="90.0"
+        x2="122.0"
+        y1="555.0"
+        y2="555.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(128,555) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(141.20,559.00) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        D
+      </text>
+      <line
+        x1="90.0"
+        x2="74.0"
+        y1="555.0"
+        y2="582.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(70,588) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(64.40,603.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        F#
+      </text>
+      <line
+        x1="90.0"
+        x2="62.287187078897965"
+        y1="555.0"
+        y2="539.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(56,535) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(45.66,533.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        A
+      </text>
+    </g>
+    <g transform="translate(150,515) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -2086,8 +3561,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -2160,8 +3635,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -2463,7 +3938,302 @@
       >
       Bmin7 (iii7)
     </text>
-    <g transform="translate(50,635) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="90.0"
+        cy="675.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="646.2"
+        y2="643.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="650.0584683710082"
+        y2="647.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="660.6"
+        y2="659.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="118.8"
+        x2="122.0"
+        y1="675.0"
+        y2="675.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="689.4"
+        y2="691.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="699.9415316289918"
+        y2="702.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="703.8"
+        y2="707.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.60000000000001"
+        x2="74.0"
+        y1="699.9415316289918"
+        y2="702.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.28718707889796"
+        y1="689.4"
+        y2="691.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="61.2"
+        x2="58.0"
+        y1="675.0"
+        y2="675.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.287187078897965"
+        y1="660.6"
+        y2="659.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.6"
+        x2="73.99999999999999"
+        y1="650.0584683710082"
+        y2="647.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="675.0"
+        y2="643.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(90,636) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(90.00,627.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        E
+      </text>
+      <line
+        x1="90.0"
+        x2="122.0"
+        y1="675.0"
+        y2="675.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(128,675) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(141.20,679.00) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        G
+      </text>
+      <line
+        x1="90.0"
+        x2="74.0"
+        y1="675.0"
+        y2="702.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(70,708) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(64.40,723.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        B
+      </text>
+      <line
+        x1="90.0"
+        x2="62.287187078897965"
+        y1="675.0"
+        y2="659.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(56,655) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(45.66,653.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        D
+      </text>
+    </g>
+    <g transform="translate(150,635) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -2591,8 +4361,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -2651,8 +4421,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -2954,7 +4724,302 @@
       >
       Emin7 (vi7)
     </text>
-    <g transform="translate(50,755) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="90.0"
+        cy="795.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="766.2"
+        y2="763.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="770.0584683710082"
+        y2="767.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="780.6"
+        y2="779.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="118.8"
+        x2="122.0"
+        y1="795.0"
+        y2="795.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="114.94153162899184"
+        x2="117.71281292110204"
+        y1="809.4"
+        y2="811.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="104.4"
+        x2="106.0"
+        y1="819.9415316289918"
+        y2="822.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="823.8"
+        y2="827.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.60000000000001"
+        x2="74.0"
+        y1="819.9415316289918"
+        y2="822.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.28718707889796"
+        y1="809.4"
+        y2="811.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="61.2"
+        x2="58.0"
+        y1="795.0"
+        y2="795.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="65.05846837100816"
+        x2="62.287187078897965"
+        y1="780.6"
+        y2="779.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="75.6"
+        x2="73.99999999999999"
+        y1="770.0584683710082"
+        y2="767.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="90.0"
+        x2="90.0"
+        y1="795.0"
+        y2="763.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(90,756) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(90.00,747.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        A
+      </text>
+      <line
+        x1="90.0"
+        x2="122.0"
+        y1="795.0"
+        y2="795.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(128,795) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(141.20,799.00) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        C
+      </text>
+      <line
+        x1="90.0"
+        x2="74.0"
+        y1="795.0"
+        y2="822.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(70,828) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(64.40,843.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        E
+      </text>
+      <line
+        x1="90.0"
+        x2="62.287187078897965"
+        y1="795.0"
+        y2="779.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(56,775) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(45.66,773.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        G
+      </text>
+    </g>
+    <g transform="translate(150,755) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -3082,8 +5147,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -3142,8 +5207,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -3445,7 +5510,302 @@
       >
       Amin7 (ii7)
     </text>
-    <g transform="translate(475,35) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="515.0"
+        cy="75.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="46.2"
+        y2="43.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="50.05846837100817"
+        y2="47.287187078897965"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="60.6"
+        y2="59.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="543.8"
+        x2="547.0"
+        y1="75.0"
+        y2="75.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="89.4"
+        y2="91.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="99.94153162899184"
+        y2="102.71281292110203"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="103.8"
+        y2="107.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.6"
+        x2="499.0"
+        y1="99.94153162899184"
+        y2="102.71281292110204"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="89.4"
+        y2="91.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="486.2"
+        x2="483.0"
+        y1="75.0"
+        y2="75.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="60.599999999999994"
+        y2="59.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.59999999999997"
+        x2="499.0"
+        y1="50.058468371008175"
+        y2="47.28718707889797"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="75.0"
+        y2="43.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(515,36) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(515.00,27.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        G
+      </text>
+      <line
+        x1="515.0"
+        x2="542.712812921102"
+        y1="75.0"
+        y2="91.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(548,94) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(559.34,104.60) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        B
+      </text>
+      <line
+        x1="515.0"
+        x2="499.0"
+        y1="75.0"
+        y2="102.71281292110204"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(495,108) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(489.40,123.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        D
+      </text>
+      <line
+        x1="515.0"
+        x2="499.0"
+        y1="75.0"
+        y2="47.28718707889797"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(495,41) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(489.40,34.66) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        F#
+      </text>
+    </g>
+    <g transform="translate(575,35) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -3573,8 +5933,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -3633,8 +5993,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -3934,9 +6294,304 @@
         text-anchor:middle;
         "
       >
-      G7 (IV7)
+      G7 (V7)
     </text>
-    <g transform="translate(475,155) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="515.0"
+        cy="195.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="166.2"
+        y2="163.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="170.05846837100816"
+        y2="167.28718707889797"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="180.6"
+        y2="179.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="543.8"
+        x2="547.0"
+        y1="195.0"
+        y2="195.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="209.4"
+        y2="211.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="219.94153162899184"
+        y2="222.71281292110203"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="223.8"
+        y2="227.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.6"
+        x2="499.0"
+        y1="219.94153162899184"
+        y2="222.71281292110203"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="209.4"
+        y2="211.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="486.2"
+        x2="483.0"
+        y1="195.0"
+        y2="195.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="180.6"
+        y2="179.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.59999999999997"
+        x2="499.0"
+        y1="170.0584683710082"
+        y2="167.28718707889797"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="195.0"
+        y2="163.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(515,156) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(515.00,147.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        C
+      </text>
+      <line
+        x1="515.0"
+        x2="542.712812921102"
+        y1="195.0"
+        y2="211.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(548,214) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(559.34,224.60) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        E
+      </text>
+      <line
+        x1="515.0"
+        x2="499.0"
+        y1="195.0"
+        y2="222.71281292110203"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(495,228) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(489.40,243.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        G
+      </text>
+      <line
+        x1="515.0"
+        x2="487.28718707889794"
+        y1="195.0"
+        y2="179.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(481,175) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(470.66,173.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        A#
+      </text>
+    </g>
+    <g transform="translate(575,155) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -4064,8 +6719,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -4124,8 +6779,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -4427,7 +7082,302 @@
       >
       Cmaj7 (Imaj7)
     </text>
-    <g transform="translate(475,275) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="515.0"
+        cy="315.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="286.2"
+        y2="283.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="290.0584683710082"
+        y2="287.28718707889794"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="300.6"
+        y2="299.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="543.8"
+        x2="547.0"
+        y1="315.0"
+        y2="315.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="329.4"
+        y2="331.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="339.9415316289918"
+        y2="342.71281292110206"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="343.8"
+        y2="347.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.6"
+        x2="499.0"
+        y1="339.9415316289918"
+        y2="342.71281292110206"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="329.4"
+        y2="331.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="486.2"
+        x2="483.0"
+        y1="315.0"
+        y2="315.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="300.6"
+        y2="299.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.59999999999997"
+        x2="499.0"
+        y1="290.0584683710082"
+        y2="287.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="315.0"
+        y2="283.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(515,276) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(515.00,267.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        F
+      </text>
+      <line
+        x1="515.0"
+        x2="542.712812921102"
+        y1="315.0"
+        y2="331.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(548,334) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(559.34,344.60) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        A
+      </text>
+      <line
+        x1="515.0"
+        x2="499.0"
+        y1="315.0"
+        y2="342.71281292110206"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(495,348) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(489.40,363.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        C
+      </text>
+      <line
+        x1="515.0"
+        x2="487.28718707889794"
+        y1="315.0"
+        y2="299.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(481,295) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(470.66,293.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        D#
+      </text>
+    </g>
+    <g transform="translate(575,275) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -4555,8 +7505,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -4615,8 +7565,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -4918,7 +7868,302 @@
       >
       Fmaj7 (IVmaj7)
     </text>
-    <g transform="translate(475,395) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="515.0"
+        cy="435.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="406.2"
+        y2="403.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="410.0584683710082"
+        y2="407.28718707889794"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="420.6"
+        y2="419.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="543.8"
+        x2="547.0"
+        y1="435.0"
+        y2="435.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="449.4"
+        y2="451.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="459.9415316289918"
+        y2="462.71281292110206"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="463.8"
+        y2="467.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.6"
+        x2="499.0"
+        y1="459.9415316289918"
+        y2="462.71281292110206"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="449.4"
+        y2="451.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="486.2"
+        x2="483.0"
+        y1="435.0"
+        y2="435.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="420.6"
+        y2="419.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.59999999999997"
+        x2="499.0"
+        y1="410.0584683710082"
+        y2="407.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="435.0"
+        y2="403.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(515,396) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(515.00,387.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        B
+      </text>
+      <line
+        x1="515.0"
+        x2="547.0"
+        y1="435.0"
+        y2="435.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(553,435) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(566.20,439.00) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        D
+      </text>
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="435.0"
+        y2="467.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(515,473) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(515.00,490.20) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        F
+      </text>
+      <line
+        x1="515.0"
+        x2="487.28718707889794"
+        y1="435.0"
+        y2="419.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(481,415) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(470.66,413.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        A
+      </text>
+    </g>
+    <g transform="translate(575,395) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -5032,8 +8277,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -5106,8 +8351,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -5409,7 +8654,302 @@
       >
       Bm7b5 (vii7b5)
     </text>
-    <g transform="translate(475,515) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="515.0"
+        cy="555.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="526.2"
+        y2="523.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="530.0584683710082"
+        y2="527.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="540.6"
+        y2="539.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="543.8"
+        x2="547.0"
+        y1="555.0"
+        y2="555.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="569.4"
+        y2="571.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="579.9415316289918"
+        y2="582.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="583.8"
+        y2="587.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.6"
+        x2="499.0"
+        y1="579.9415316289918"
+        y2="582.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="569.4"
+        y2="571.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="486.2"
+        x2="483.0"
+        y1="555.0"
+        y2="555.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="540.6"
+        y2="539.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.59999999999997"
+        x2="499.0"
+        y1="530.0584683710082"
+        y2="527.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="555.0"
+        y2="523.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(515,516) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(515.00,507.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        E
+      </text>
+      <line
+        x1="515.0"
+        x2="547.0"
+        y1="555.0"
+        y2="555.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(553,555) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(566.20,559.00) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        G
+      </text>
+      <line
+        x1="515.0"
+        x2="499.0"
+        y1="555.0"
+        y2="582.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(495,588) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(489.40,603.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        B
+      </text>
+      <line
+        x1="515.0"
+        x2="487.28718707889794"
+        y1="555.0"
+        y2="539.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(481,535) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(470.66,533.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        D
+      </text>
+    </g>
+    <g transform="translate(575,515) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -5537,8 +9077,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -5597,8 +9137,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -5900,7 +9440,302 @@
       >
       Emin7 (iii7)
     </text>
-    <g transform="translate(475,635) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="515.0"
+        cy="675.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="646.2"
+        y2="643.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="650.0584683710082"
+        y2="647.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="660.6"
+        y2="659.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="543.8"
+        x2="547.0"
+        y1="675.0"
+        y2="675.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="689.4"
+        y2="691.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="699.9415316289918"
+        y2="702.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="703.8"
+        y2="707.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.6"
+        x2="499.0"
+        y1="699.9415316289918"
+        y2="702.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="689.4"
+        y2="691.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="486.2"
+        x2="483.0"
+        y1="675.0"
+        y2="675.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="660.6"
+        y2="659.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.59999999999997"
+        x2="499.0"
+        y1="650.0584683710082"
+        y2="647.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="675.0"
+        y2="643.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(515,636) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(515.00,627.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        A
+      </text>
+      <line
+        x1="515.0"
+        x2="547.0"
+        y1="675.0"
+        y2="675.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(553,675) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(566.20,679.00) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        C
+      </text>
+      <line
+        x1="515.0"
+        x2="499.0"
+        y1="675.0"
+        y2="702.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(495,708) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(489.40,723.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        E
+      </text>
+      <line
+        x1="515.0"
+        x2="487.28718707889794"
+        y1="675.0"
+        y2="659.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(481,655) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(470.66,653.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        G
+      </text>
+    </g>
+    <g transform="translate(575,635) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -6028,8 +9863,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -6088,8 +9923,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -6391,7 +10226,302 @@
       >
       Amin7 (vi7)
     </text>
-    <g transform="translate(475,755) rotate(0.0) scale( 1.00 , 1.00 )">
+    <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
+      <ellipse
+        cx="515.0"
+        cy="795.0"
+        rx="32.0"
+        ry="32.0"
+        style="
+          fill:white;
+          stroke:black;
+          stroke-width:1;
+          fill-opacity:1.00;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="766.2"
+        y2="763.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="770.0584683710082"
+        y2="767.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="780.6"
+        y2="779.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="543.8"
+        x2="547.0"
+        y1="795.0"
+        y2="795.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="539.9415316289918"
+        x2="542.712812921102"
+        y1="809.4"
+        y2="811.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="529.4"
+        x2="531.0"
+        y1="819.9415316289918"
+        y2="822.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="823.8"
+        y2="827.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.6"
+        x2="499.0"
+        y1="819.9415316289918"
+        y2="822.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="809.4"
+        y2="811.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="486.2"
+        x2="483.0"
+        y1="795.0"
+        y2="795.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="490.0584683710082"
+        x2="487.28718707889794"
+        y1="780.6"
+        y2="779.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="500.59999999999997"
+        x2="499.0"
+        y1="770.0584683710082"
+        y2="767.287187078898"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <line
+        x1="515.0"
+        x2="515.0"
+        y1="795.0"
+        y2="763.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(515,756) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(515.00,747.80) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        D
+      </text>
+      <line
+        x1="515.0"
+        x2="547.0"
+        y1="795.0"
+        y2="795.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(553,795) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(566.20,799.00) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        F
+      </text>
+      <line
+        x1="515.0"
+        x2="499.0"
+        y1="795.0"
+        y2="822.712812921102"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(495,828) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(489.40,843.34) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        A
+      </text>
+      <line
+        x1="515.0"
+        x2="487.28718707889794"
+        y1="795.0"
+        y2="779.0"
+        style="
+          stroke:black;
+          stroke-width:1;
+          stroke-opacity:1.0;
+          "
+        />
+      <g transform="translate(481,775) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <text
+        x="0"
+        y="0"
+        transform="translate(470.66,773.40) rotate(0.00)"
+        style="
+          font-family:Arial;
+          font-size:12px;
+          fill:black;
+          text-anchor:middle;
+          "
+        >
+        C
+      </text>
+    </g>
+    <g transform="translate(575,755) rotate(0.0) scale( 1.00 , 1.00 )">
       <line
         x1="0"
         x2="175"
@@ -6505,8 +10635,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "
@@ -6579,8 +10709,8 @@
         rx="3"
         ry="3"
         style="
-          fill:lightgrey;
-          stroke:black;
+          fill:grey;
+          stroke:grey;
           stroke-width:1;
           fill-opacity:1.00;
           "

@@ -11,7 +11,7 @@ from svg.svgTEXT import svgText
 
 TICK_FRACTION = .9
 PITCH_LOCATION_SCALE = .2
-TEXT_OFFSET = 6
+TEXT_OFFSET = 4
 
 class svgConstellation(svgGroup):
   

@@ -61,8 +61,8 @@ class svgFretboard(svgGroup):
       yloc += DEFAULT_STRING_SEPARATION
 
         
-  def addCircle(self,radius, xloc, yloc , colorFill="lightgrey"):
-    self.add( svgEllipse( xloc , yloc , radius , radius, colorFill=colorFill ) )
+  def addCircle(self,radius, xloc, yloc , color="grey"):
+    self.add( svgEllipse( xloc , yloc , radius , radius, colorFill=color , colorStroke=color ) )
       
         
   def incr( self, start , increment = 1 ) :
