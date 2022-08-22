@@ -27,8 +27,6 @@ HORIZONTAL_OFFSET = width/2
 
 dwg = svgDwg( width , height )
 
-# dwg.add( svgRect( width , height , 0 , 0 , colorStroke="blue"))
-
 
 diameter = .4 * PIXELS_PER_INCH
 xloc = .5 * PIXELS_PER_INCH
@@ -82,11 +80,13 @@ for idx in range(len(fret_arrays_all)) :
     
     key = svgKey( key_idx )
     pitches = chord_pitches[ array_idx ]
+    
     dwg.add( svgConstellation( CIRCLE_SCALE * diameter ,
                                xloc + CONSTELLATION_OFFSET ,
                                yloc ,
                                pitches ,
                                key_text = key_idx ))
+    
     dwg.add( svgFretboard( xloc + FRETBOARD_OFFSET ,
                            yloc - diameter ,
                            NUMBER_FRETS ,

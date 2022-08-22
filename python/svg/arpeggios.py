@@ -1,3 +1,5 @@
+import sys
+
 from svg.svgDWG import svgDwg
 from svg.svgELLIPSE import svgEllipse
 from svg.svgRECT import svgRect
@@ -57,7 +59,10 @@ pitch_arrays = [
   ]
 
 
-key_text = "C"
+
+key_text = "G"
+if( len( sys.argv ) > 1 ) :
+  key_text = sys.argv[1]
 title = "KEY : " + key_text
 dwg.add( svgText(TITLE_OFFSET_X,TITLE_OFFSET_Y,title,fontSize=24,anchor="left"))
 
