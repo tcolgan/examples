@@ -7302,7 +7302,7 @@
         text-anchor:middle;
         "
       >
-      E7 (iv7)
+      Em7 (iv7)
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -8214,7 +8214,7 @@
         text-anchor:middle;
         "
       >
-      Amaj7 (VII7)
+      A7 (VII7)
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -10038,7 +10038,7 @@
         text-anchor:middle;
         "
       >
-      Bm7b5 (VII7)
+      Gmaj7 (VII7)
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -10950,7 +10950,7 @@
         text-anchor:middle;
         "
       >
-      C#min7 (ii7b5)
+      C#m7b5 (ii7b5)
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -11862,7 +11862,7 @@
         text-anchor:middle;
         "
       >
-      F#min7 (V7)
+      F#7 (V7)
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -12774,7 +12774,7 @@
         text-anchor:middle;
         "
       >
-      Bmin7 (i7)
+      Bm7 (i7)
     </text>
   </g>
 </svg>

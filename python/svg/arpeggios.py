@@ -69,6 +69,7 @@ if( len( sys.argv ) > 1 ) :
 title = "KEY : " + key_text
 dwg.add( svgText(TITLE_OFFSET_X,TITLE_OFFSET_Y,title,fontSize=24,anchor="left"))
 
+
 for text,pitches in pitch_arrays:
   
   key = svgKey( key_text )
