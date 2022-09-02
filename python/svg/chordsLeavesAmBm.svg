@@ -1178,23 +1178,23 @@
       </text>
       <line
         x1="90.0"
-        x2="73.99999999999999"
+        x2="62.287187078897965"
         y1="195.0"
-        y2="167.28718707889797"
+        y2="179.0"
         style="
           stroke:black;
           stroke-width:1;
           stroke-opacity:1.0;
           "
         />
-      <g transform="translate(70,161) rotate(0.0) scale( 1.00 , 1.00 )">
+      <g transform="translate(56,175) rotate(0.0) scale( 1.00 , 1.00 )">
         <ellipse
           cx="0"
           cy="0"
           rx="3"
           ry="3"
           style="
-            fill:white;
+            fill:black;
             stroke:black;
             stroke-width:1;
             fill-opacity:1.00;
@@ -1204,7 +1204,7 @@
       <text
         x="0"
         y="0"
-        transform="translate(64.40,154.66) rotate(0.00)"
+        transform="translate(45.66,173.40) rotate(0.00)"
         style="
           font-family:Arial;
           font-size:12px;
@@ -1212,7 +1212,7 @@
           text-anchor:middle;
           "
         >
-        F#
+        F
       </text>
     </g>
     <g transform="translate(150,155) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -4826,23 +4826,23 @@
       </text>
       <line
         x1="90.0"
-        x2="73.99999999999999"
+        x2="62.287187078897965"
         y1="675.0"
-        y2="647.287187078898"
+        y2="659.0"
         style="
           stroke:black;
           stroke-width:1;
           stroke-opacity:1.0;
           "
         />
-      <g transform="translate(70,641) rotate(0.0) scale( 1.00 , 1.00 )">
+      <g transform="translate(56,655) rotate(0.0) scale( 1.00 , 1.00 )">
         <ellipse
           cx="0"
           cy="0"
           rx="3"
           ry="3"
           style="
-            fill:white;
+            fill:black;
             stroke:black;
             stroke-width:1;
             fill-opacity:1.00;
@@ -4852,7 +4852,7 @@
       <text
         x="0"
         y="0"
-        transform="translate(64.40,634.66) rotate(0.00)"
+        transform="translate(45.66,653.40) rotate(0.00)"
         style="
           font-family:Arial;
           font-size:12px;
@@ -4860,7 +4860,7 @@
           text-anchor:middle;
           "
         >
-        D#
+        D
       </text>
     </g>
     <g transform="translate(150,635) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -7562,23 +7562,23 @@
       </text>
       <line
         x1="515.0"
-        x2="499.0"
+        x2="487.28718707889794"
         y1="195.0"
-        y2="167.28718707889797"
+        y2="179.0"
         style="
           stroke:black;
           stroke-width:1;
           stroke-opacity:1.0;
           "
         />
-      <g transform="translate(495,161) rotate(0.0) scale( 1.00 , 1.00 )">
+      <g transform="translate(481,175) rotate(0.0) scale( 1.00 , 1.00 )">
         <ellipse
           cx="0"
           cy="0"
           rx="3"
           ry="3"
           style="
-            fill:white;
+            fill:black;
             stroke:black;
             stroke-width:1;
             fill-opacity:1.00;
@@ -7588,7 +7588,7 @@
       <text
         x="0"
         y="0"
-        transform="translate(489.40,154.66) rotate(0.00)"
+        transform="translate(470.66,173.40) rotate(0.00)"
         style="
           font-family:Arial;
           font-size:12px;
@@ -7596,7 +7596,7 @@
           text-anchor:middle;
           "
         >
-        G#
+        G
       </text>
     </g>
     <g transform="translate(575,155) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -11210,23 +11210,23 @@
       </text>
       <line
         x1="515.0"
-        x2="499.0"
+        x2="487.28718707889794"
         y1="675.0"
-        y2="647.287187078898"
+        y2="659.0"
         style="
           stroke:black;
           stroke-width:1;
           stroke-opacity:1.0;
           "
         />
-      <g transform="translate(495,641) rotate(0.0) scale( 1.00 , 1.00 )">
+      <g transform="translate(481,655) rotate(0.0) scale( 1.00 , 1.00 )">
         <ellipse
           cx="0"
           cy="0"
           rx="3"
           ry="3"
           style="
-            fill:white;
+            fill:black;
             stroke:black;
             stroke-width:1;
             fill-opacity:1.00;
@@ -11236,7 +11236,7 @@
       <text
         x="0"
         y="0"
-        transform="translate(489.40,634.66) rotate(0.00)"
+        transform="translate(470.66,653.40) rotate(0.00)"
         style="
           font-family:Arial;
           font-size:12px;
@@ -11244,7 +11244,7 @@
           text-anchor:middle;
           "
         >
-        F
+        E
       </text>
     </g>
     <g transform="translate(575,635) rotate(0.0) scale( 1.00 , 1.00 )">
