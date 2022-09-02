@@ -42,6 +42,8 @@ class svgKey():
     value = start + increment
     if value >= self.NUMBER_NOTES :
       value = value - self.NUMBER_NOTES
+    if value < 0 :
+      value += self.NUMBER_NOTES
     return value
 
   def makeMatrix( self , pitches ) :

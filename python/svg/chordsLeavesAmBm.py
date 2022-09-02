@@ -20,7 +20,7 @@ VERTICAL_OFFSET = 1.2 * PIXELS_PER_INCH
 
 NUMBER_FRETS = 9
 
-width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
+width  = 12.0 * PIXELS_PER_INCH - 2 * HBORDER
 height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
 
 HORIZONTAL_OFFSET = width/2
@@ -35,7 +35,7 @@ xloc = .5 * PIXELS_PER_INCH
 
 text_offset = .25 * PIXELS_PER_INCH
 
-FRETBOARD_OFFSET = 1.0 * PIXELS_PER_INCH
+FRETBOARD_OFFSET = 2.5 * PIXELS_PER_INCH
 CONSTELLATION_OFFSET = 0.4 * PIXELS_PER_INCH
 
 CIRCLE_SCALE = .8
@@ -72,15 +72,22 @@ fret_arrays_all = [
 suffix = ["iv7" , "VII7" , "III7" , "VII7" , "ii7b5" , "V7" , "i7"]
 chord_pitches = [ CHORD_MIN7 , CHORD_7 ,  CHORD_MAJ7 , CHORD_MAJ7 , CHORD_MIN7B5 , CHORD_7 , CHORD_MIN7 ]
 
+base_keys = [ "A" , "B" ]
+idx_key = 0
 
 for idx in range(len(fret_arrays_all)) :
   array_idx = 0
   
   yloc = .75 * PIXELS_PER_INCH
   fret_arrays = fret_arrays_all[idx]
+  first = True
+  key_idx_base = base_keys[ idx_key ]
+  idx_key += 1
+  
   for key_idx,text,frets in fret_arrays:
     
     key = svgKey( key_idx )
+
     pitches = chord_pitches[ array_idx ]
     
     dwg.add( svgConstellation( CIRCLE_SCALE * diameter ,
@@ -89,6 +96,15 @@ for idx in range(len(fret_arrays_all)) :
                                pitches ,
                                key_text = key_idx ))
     
+    
+    key_offset = key.key_offsets[ key_idx ] - key.key_offsets[ key_idx_base ]
+    pitches = [ key.incr( x , key_offset ) for x in pitches ]
+    dwg.add( svgConstellation( CIRCLE_SCALE * diameter ,
+                               xloc + FRETBOARD_OFFSET / 2 + CONSTELLATION_OFFSET ,
+                               yloc ,
+                               pitches ,
+                               key_text = key_idx_base ))
+
     dwg.add( svgFretboard( xloc + FRETBOARD_OFFSET ,
                            yloc - diameter ,
                            NUMBER_FRETS ,
