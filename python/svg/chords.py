@@ -40,7 +40,7 @@ CIRCLE_SCALE = .8
 
 
 CHORD_7      = [0,4,7,11]
-CHORD_MAJ7   = [0,4,7,10]
+CHORD_MAJ7   = [0,4,7,11]
 CHORD_MIN7B5 = [0,3,6,10]
 CHORD_MIN7   = [0,3,7,10]
 
