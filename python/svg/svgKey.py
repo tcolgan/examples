@@ -38,7 +38,7 @@ class svgKey():
       self.pitch_string.append( self.incr( pitch , pitch_offset ) )
 
 
-  def incr( self , start , increment = 1 ) :
+  def incr( self , start = 0 , increment = 1 ) :
     value = start + increment
     if value >= self.NUMBER_NOTES :
       value = value - self.NUMBER_NOTES
@@ -89,3 +89,9 @@ class svgKey():
       if self.key_offsets[key] == offset :
         return( key )
     return( "G" )
+    
+  def getOffset( self, key = "" ):
+    
+    if not key:
+      key = self._key
+    return self.key_offsets[ key ]

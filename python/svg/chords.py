@@ -5,6 +5,7 @@ from svg.svgTEXT import svgText
 from svgConstellation import svgConstellation
 from svgFretboard import svgFretboard
 from svgKey import svgKey
+from finger import finger
 
 
 PIXELS_PER_INCH = 100
@@ -39,7 +40,7 @@ CONSTELLATION_OFFSET = 0.4 * PIXELS_PER_INCH
 CIRCLE_SCALE = .8
 
 
-CHORD_7      = [0,4,7,11]
+CHORD_7      = [0,4,7,10]
 CHORD_MAJ7   = [0,4,7,11]
 CHORD_MIN7B5 = [0,3,6,10]
 CHORD_MIN7   = [0,3,7,10]
@@ -52,18 +53,18 @@ fret_arrays_all = [
     ( "G"  , "Gmaj7"  , [ 3,5,4,4] ),
     ( "C"  , "Cmaj7"  , [ 3,3,2,4] ),
     ( "F#" , "F#m7b5" , [ 2,3,2,2] ),
-    ( "B"  , "Bmin7"  , [ 5,5,4,4] ),
-    ( "E"  , "Emin7"  , [ 0,5,5,4] ),
-    ( "A"  , "Amin7"  , [ 3,3,2,2] ),
+    ( "B"  , "Bm7"    , [ 5,5,4,4] ),
+    ( "E"  , "Em7"    , [ 0,5,5,4] ),
+    ( "A"  , "Am7"    , [ 3,3,2,2] ),
   ],
   [
     ( "G"  , "G7"     , [ 3,5,3,4] ),
     ( "C"  , "Cmaj7"  , [ 3,3,2,4] ),
     ( "F"  , "Fmaj7"  , [ 1,3,2,2] ),
     ( "B"  , "Bm7b5"  , [ 5,5,3,4] ),
-    ( "E"  , "Emin7"  , [ 0,5,5,4] ),
-    ( "A"  , "Amin7"  , [ 3,3,2,2] ),
-    ( "D"  , "Dmin7"  , [ 5,5,3,5] ),
+    ( "E"  , "Em7"    , [ 0,5,5,4] ),
+    ( "A"  , "Am7"    , [ 3,3,2,2] ),
+    ( "D"  , "Dm7"    , [ 5,5,3,5] ),
   ],
   ]
 

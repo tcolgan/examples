@@ -266,23 +266,23 @@
       </text>
       <line
         x1="90.0"
-        x2="73.99999999999999"
+        x2="62.287187078897965"
         y1="75.0"
-        y2="47.28718707889797"
+        y2="59.0"
         style="
           stroke:black;
           stroke-width:1;
           stroke-opacity:1.0;
           "
         />
-      <g transform="translate(70,41) rotate(0.0) scale( 1.00 , 1.00 )">
+      <g transform="translate(56,55) rotate(0.0) scale( 1.00 , 1.00 )">
         <ellipse
           cx="0"
           cy="0"
           rx="3"
           ry="3"
           style="
-            fill:white;
+            fill:black;
             stroke:black;
             stroke-width:1;
             fill-opacity:1.00;
@@ -292,7 +292,7 @@
       <text
         x="0"
         y="0"
-        transform="translate(64.40,34.66) rotate(0.00)"
+        transform="translate(45.66,53.40) rotate(0.00)"
         style="
           font-family:Arial;
           font-size:12px;
@@ -300,7 +300,7 @@
           text-anchor:middle;
           "
         >
-        C#
+        C
       </text>
     </g>
     <g transform="translate(150,35) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -3936,7 +3936,7 @@
         text-anchor:middle;
         "
       >
-      Bmin7 (iii7)
+      Bm7 (iii7)
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -4722,7 +4722,7 @@
         text-anchor:middle;
         "
       >
-      Emin7 (vi7)
+      Em7 (vi7)
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -5508,7 +5508,7 @@
         text-anchor:middle;
         "
       >
-      Amin7 (ii7)
+      Am7 (ii7)
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -5768,23 +5768,23 @@
       </text>
       <line
         x1="515.0"
-        x2="499.0"
+        x2="487.28718707889794"
         y1="75.0"
-        y2="47.28718707889797"
+        y2="59.0"
         style="
           stroke:black;
           stroke-width:1;
           stroke-opacity:1.0;
           "
         />
-      <g transform="translate(495,41) rotate(0.0) scale( 1.00 , 1.00 )">
+      <g transform="translate(481,55) rotate(0.0) scale( 1.00 , 1.00 )">
         <ellipse
           cx="0"
           cy="0"
           rx="3"
           ry="3"
           style="
-            fill:white;
+            fill:black;
             stroke:black;
             stroke-width:1;
             fill-opacity:1.00;
@@ -5794,7 +5794,7 @@
       <text
         x="0"
         y="0"
-        transform="translate(489.40,34.66) rotate(0.00)"
+        transform="translate(470.66,53.40) rotate(0.00)"
         style="
           font-family:Arial;
           font-size:12px;
@@ -5802,7 +5802,7 @@
           text-anchor:middle;
           "
         >
-        F#
+        F
       </text>
     </g>
     <g transform="translate(575,35) rotate(0.0) scale( 1.00 , 1.00 )">
@@ -9438,7 +9438,7 @@
         text-anchor:middle;
         "
       >
-      Emin7 (iii7)
+      Em7 (iii7)
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -10224,7 +10224,7 @@
         text-anchor:middle;
         "
       >
-      Amin7 (vi7)
+      Am7 (vi7)
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -11010,7 +11010,7 @@
         text-anchor:middle;
         "
       >
-      Dmin7 (ii7)
+      Dm7 (ii7)
     </text>
   </g>
 </svg>
