@@ -22,10 +22,23 @@ from svgKey import svgKey
 '''
 
 class finger():
+  
+  CHORD_7      = [0,4,7,10]
+  CHORD_MAJ7   = [0,4,7,11]
+  CHORD_MIN7B5 = [0,3,6,10]
+  CHORD_MIN7   = [0,3,7,10]
+  CHORD_MAJ    = [0,4,7]
+  CHORD_MIN    = [0,3,7]
+
 
   fingerings = {
-      "Xm"  : [ [ 8,7,7,9] ]  ,
-      "Xm7" : [ [ 3,3,2,2] ]  ,
+      "Xm"    : ( CHORD_MIN    , [ [ 8,7,7,9] ] )  ,
+      "Xm7"   : ( CHORD_MIN7   , [ [ 3,3,2,2] ] )  ,
+      "Xmaj7" : ( CHORD_MAJ7   , [ [ 4,4,2,2] ] )  ,
+      "X7"    : ( CHORD_7      , [ [ 5,7,5,6] , [ 12,12,11,12] ] )  ,
+      "Xm7b5" : ( CHORD_MIN7B5 , [ [ 5,6,5,5] ] )  ,
+      "X"     : ( CHORD_MAJ    , [ [ 5,4,2,2] ] )  ,
+#      "X"    : ( CHORD_  , [ [ ] ]  ,
   }
   
   MIN_FRET = 2
@@ -47,11 +60,12 @@ class finger():
     
     offset = self.getOffset()
     
-    fingering = (self.fingerings[ chord ])[ version ]
+    chord_intervals,fingerings = self.fingerings[ chord ]
+    fingering = fingerings[ version ]
     
     fingering = [ x + offset for x in fingering ]
     
     if min(fingering) >= max_fret :
       fingering = [ x - num_notes for x in fingering ]
     
-    return fingering
+    return chord_intervals,fingering

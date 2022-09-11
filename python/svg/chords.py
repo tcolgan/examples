@@ -19,7 +19,7 @@ HEIGHT_FONT_12 = 12 * FONT_TO_PIXELS
 
 VERTICAL_OFFSET = 1.2 * PIXELS_PER_INCH
 
-NUMBER_FRETS = 7
+NUMBER_FRETS = 14
 
 width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
 height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
@@ -48,6 +48,11 @@ CHORD_MIN7   = [0,3,7,10]
 
 
 fret_arrays_all = [
+    ( "D" , "X7" , 1 ) ,
+  ],
+
+
+'''
   [
     ( "D"  , "D7"     , [ 5,5,4,5] ),
     ( "G"  , "Gmaj7"  , [ 3,5,4,4] ),
@@ -66,7 +71,7 @@ fret_arrays_all = [
     ( "A"  , "Am7"    , [ 3,3,2,2] ),
     ( "D"  , "Dm7"    , [ 5,5,3,5] ),
   ],
-  ]
+'''
 
 suffix = ["V7" , "Imaj7" , "IVmaj7" , "vii7b5" , "iii7" , "vi7" , "ii7"]
 chord_pitches = [ CHORD_7 , CHORD_MAJ7 ,  CHORD_MAJ7 , CHORD_MIN7B5 , CHORD_MIN7 , CHORD_MIN7 , CHORD_MIN7 ]
@@ -77,10 +82,12 @@ for idx in range(len(fret_arrays_all)) :
   
   yloc = .75 * PIXELS_PER_INCH
   fret_arrays = fret_arrays_all[idx]
-  for key_idx,text,frets in fret_arrays:
+  for key_idx,text,chord_idx in fret_arrays:
     
     key = svgKey( key_idx )
-    pitches = chord_pitches[ array_idx ]
+#    pitches = chord_pitches[ array_idx ]
+
+    pitches,frets = finger( key_idx ).getFingering( text , chord_idx )
     
     dwg.add( svgConstellation( CIRCLE_SCALE * diameter ,
                                xloc + CONSTELLATION_OFFSET ,
@@ -94,7 +101,7 @@ for idx in range(len(fret_arrays_all)) :
                            key.makeChordMatrix( frets ) ,
                           ))
                           
-    text += " (" + suffix[ array_idx ] +")"
+    text = key_idx + text[1:] + " (" + suffix[ array_idx ] +")"
     dwg.add( svgText( xloc - text_offset , yloc , text , rotate=270.0 , fontSize = 15 ) )
     yloc += VERTICAL_OFFSET
     array_idx += 1
