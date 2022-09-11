@@ -24,8 +24,11 @@ from svgKey import svgKey
 class finger():
 
   fingerings = {
+      "Xm"  : [ [ 8,7,7,9] ]  ,
       "Xm7" : [ [ 3,3,2,2] ]  ,
   }
+  
+  MIN_FRET = 2
 
   
   def __init__( self , key ) :
@@ -38,4 +41,17 @@ class finger():
     return self._svgKey.getOffset()
       
   def getFingering( self , chord , version = 0 ):
-    return (self.fingerings[ chord ])[ version ]
+    
+    num_notes = svgKey.NUMBER_NOTES
+    max_fret = num_notes + self.MIN_FRET
+    
+    offset = self.getOffset()
+    
+    fingering = (self.fingerings[ chord ])[ version ]
+    
+    fingering = [ x + offset for x in fingering ]
+    
+    if min(fingering) >= max_fret :
+      fingering = [ x - num_notes for x in fingering ]
+    
+    return fingering
