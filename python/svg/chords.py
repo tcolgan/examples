@@ -46,12 +46,6 @@ CHORD_MIN7B5 = [0,3,6,10]
 CHORD_MIN7   = [0,3,7,10]
 
 
-
-fret_arrays_all = [
-    ( "D" , "X7" , 1 ) ,
-  ],
-
-
 '''
   [
     ( "D"  , "D7"     , [ 5,5,4,5] ),
@@ -73,17 +67,32 @@ fret_arrays_all = [
   ],
 '''
 
+fret_arrays_all = [
+    ( "D7" , 1 ) ,
+    ( "A7" , 0 ) ,
+  ],
+
+
 suffix = ["V7" , "Imaj7" , "IVmaj7" , "vii7b5" , "iii7" , "vi7" , "ii7"]
 chord_pitches = [ CHORD_7 , CHORD_MAJ7 ,  CHORD_MAJ7 , CHORD_MIN7B5 , CHORD_MIN7 , CHORD_MIN7 , CHORD_MIN7 ]
 
+def parse(val):
+  if val[1] == "#" or val[1] == "b" :
+     key = val[0:1]
+     chord = val[2:]
+  else:
+     key = val[0]
+     chord = val[1:]
+  return key,"X"+chord
 
 for idx in range(len(fret_arrays_all)) :
   array_idx = 0
   
   yloc = .75 * PIXELS_PER_INCH
   fret_arrays = fret_arrays_all[idx]
-  for key_idx,text,chord_idx in fret_arrays:
+  for text,chord_idx in fret_arrays:
     
+    key_idx,text = parse(text)
     key = svgKey( key_idx )
 #    pitches = chord_pitches[ array_idx ]
 
