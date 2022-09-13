@@ -68,17 +68,22 @@ CHORD_MIN7   = [0,3,7,10]
 '''
 
 fret_arrays_all = [
-    ( "D7" , 1 ) ,
-    ( "A7" , 0 ) ,
+    ( "Em7"    , 1 ) ,
+    ( "Am7"    , 0 ) ,
+    ( "D7"     , 1 ) ,
+    ( "Gmaj7"  , 1 ) ,
+    ( "Cmaj7"  , 0 ) ,
+    ( "F#m7b5" , 0 ) ,
+    ( "B7"     , 1 ) ,
   ],
 
 
-suffix = ["V7" , "Imaj7" , "IVmaj7" , "vii7b5" , "iii7" , "vi7" , "ii7"]
-chord_pitches = [ CHORD_7 , CHORD_MAJ7 ,  CHORD_MAJ7 , CHORD_MIN7B5 , CHORD_MIN7 , CHORD_MIN7 , CHORD_MIN7 ]
+suffix = ["vi7" , "ii7" , "V7" , "Imaj7" , "IVmaj7" , "vii7b5" , "iii7" ]
+chord_pitches = [ CHORD_MIN7 , CHORD_MIN7 , CHORD_7 , CHORD_MAJ7 ,  CHORD_MAJ7 , CHORD_MIN7B5 , CHORD_MIN7 ]
 
 def parse(val):
   if val[1] == "#" or val[1] == "b" :
-     key = val[0:1]
+     key = val[0:2]
      chord = val[2:]
   else:
      key = val[0]
