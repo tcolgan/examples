@@ -19,7 +19,7 @@ HEIGHT_FONT_12 = 12 * FONT_TO_PIXELS
 
 VERTICAL_OFFSET = 1.2 * PIXELS_PER_INCH
 
-NUMBER_FRETS = 14
+NUMBER_FRETS = 9
 
 width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
 height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
@@ -46,36 +46,28 @@ CHORD_MIN7B5 = [0,3,6,10]
 CHORD_MIN7   = [0,3,7,10]
 
 
-'''
-  [
-    ( "D"  , "D7"     , [ 5,5,4,5] ),
-    ( "G"  , "Gmaj7"  , [ 3,5,4,4] ),
-    ( "C"  , "Cmaj7"  , [ 3,3,2,4] ),
-    ( "F#" , "F#m7b5" , [ 2,3,2,2] ),
-    ( "B"  , "Bm7"    , [ 5,5,4,4] ),
-    ( "E"  , "Em7"    , [ 0,5,5,4] ),
-    ( "A"  , "Am7"    , [ 3,3,2,2] ),
-  ],
-  [
-    ( "G"  , "G7"     , [ 3,5,3,4] ),
-    ( "C"  , "Cmaj7"  , [ 3,3,2,4] ),
-    ( "F"  , "Fmaj7"  , [ 1,3,2,2] ),
-    ( "B"  , "Bm7b5"  , [ 5,5,3,4] ),
-    ( "E"  , "Em7"    , [ 0,5,5,4] ),
-    ( "A"  , "Am7"    , [ 3,3,2,2] ),
-    ( "D"  , "Dm7"    , [ 5,5,3,5] ),
-  ],
-'''
 
 fret_arrays_all = [
-    ( "Em7"    , 1 ) ,
-    ( "Am7"    , 0 ) ,
-    ( "D7"     , 1 ) ,
-    ( "Gmaj7"  , 1 ) ,
-    ( "Cmaj7"  , 0 ) ,
-    ( "F#m7b5" , 0 ) ,
-    ( "B7"     , 1 ) ,
-  ],
+   [
+     ( "Em7"    , 1 ) ,
+     ( "Am7"    , 0 ) ,
+     ( "D7"     , 1 ) ,
+     ( "Gmaj7"  , 1 ) ,
+     ( "Cmaj7"  , 0 ) ,
+     ( "F#m7b5" , 0 ) ,
+     ( "B7"     , 1 ) ,
+   ],
+   [
+     ( "Am7"    , 0 ) ,
+     ( "Dm7"    , 1 ) ,
+     ( "G7"     , 0 ) ,
+     ( "Cmaj7"  , 0 ) ,
+     ( "Fmaj7"  , 1 ) ,
+     ( "Bm7b5"  , 1 ) ,
+     ( "E7"     , 1 ) ,
+   ]
+  ]
+
 
 
 suffix = ["vi7" , "ii7" , "V7" , "Imaj7" , "IVmaj7" , "vii7b5" , "iii7" ]
