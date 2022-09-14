@@ -56,7 +56,10 @@ title = "KEY : " + key_text
 dwg.add( svgText(TITLE_OFFSET_X,TITLE_OFFSET_Y,title,fontSize=24,anchor="left"))
 
 
-for text,pitches in pitch_arrays:
+for dict_key in pitch_arrays:
+  
+  text = dict_key
+  pitches= pitch_arrays[ dict_key ]
   
   key = svgKey( key_text )
   dwg.add( svgConstellation( CIRCLE_SCALE * diameter , xloc , yloc , pitches , key_text = key_text ) )
