@@ -10,6 +10,7 @@ from svg.svgTEXT import svgText
 from svgConstellation import svgConstellation
 from svgFretboard import svgFretboard
 from svgKey import svgKey
+from pitchArrays import pitch_arrays
 
 
 PIXELS_PER_INCH = 100
@@ -22,8 +23,6 @@ FONT_TO_PIXELS = 1.3
 HEIGHT_FONT_12 = 12 * FONT_TO_PIXELS
 
 VERTICAL_OFFSET = 1.2 * PIXELS_PER_INCH
-
-NUMBER_FRETS = 20
 
 NUMBER_STRINGS = 4
 NUMBER_FRETS = 20
@@ -48,19 +47,6 @@ xloc = 1.2 * PIXELS_PER_INCH
 yloc = .75 * PIXELS_PER_INCH
 
 text_offset = 2 * diameter
-
-pitch_arrays = [
-    ( "chromatic scale" , [0,1,2,3,4,5,6,7,8,9,10,11] ) ,
-    ( "major scale"     , [0,2,4,5,7,9,11]            ) ,
-    ( "minor scale"     , [0,2,3,5,7,8,10]            ),
-    ( "X7"              , [0,4,7,10] ),
-    ( "Xmaj7"           , [0,4,7,11] ),
-    ( "Xmin7"           , [0,3,7,10] ),
-    ( "Xmin7b5"         , [0,3,6,10] ),
-    ( "Xsus2"           , [0,2,7]    ),
-    ( "Xsus4"           , [0,5,7]    ),
-  ]
-
 
 
 key_text = "G"

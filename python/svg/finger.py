@@ -35,7 +35,7 @@ class finger():
       "Xm"    : ( CHORD_MIN    , [ [ 5,3,2,2] , [ 8,7,7,9] ] )  ,
       "Xm7"   : ( CHORD_MIN7   , [ [ 3,3,2,2] , [ 12,12,10,12]] )  ,
       "Xmaj7" : ( CHORD_MAJ7   , [ [ 4,4,2,2] , [ 5,7,6,6] ,[ 12,12,11,13]] )  ,
-      "X7"    : ( CHORD_7      , [ [ 5,7,5,6] , [ 12,12,11,12] , [ 0,7,5,6] , [ 3,4,2,2]] )  ,
+      "X7"    : ( CHORD_7      , [ [ 5,7,5,6] , [ 12,12,11,12] , [ 0,7,5,6] , [ 5,10,11,9] , [ 3,4,2,2]] )  ,
       "Xm7b5" : ( CHORD_MIN7B5 , [ [ 5,6,5,5] , [ 3,3,1,2] , [ 11,12,10,12]] )  ,
       "X"     : ( CHORD_MAJ    , [ [ 5,4,2,2] , [ 5,4,7,9] , [ 12,12,11,9]] )  ,
 #      "X"    : ( CHORD_  , [ [ ] ]  ,
@@ -65,7 +65,7 @@ class finger():
     
     fingering = [ x + offset for x in fingering ]
     
-    if min(fingering) >= max_fret :
+    if min(fingering[1:]) >= max_fret :
       fingering = [ x - num_notes for x in fingering ]
     
     return chord_intervals,fingering
