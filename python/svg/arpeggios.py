@@ -68,6 +68,8 @@ for dict_key in pitch_arrays:
                          NUMBER_FRETS ,
                          key.makeMatrix( pitches ) ,
                         ))
+  if text[0] == "X" :
+    text = key_text + text[1:]
   dwg.add( svgText( xloc - text_offset , yloc , text , rotate=270.0) )
   yloc += VERTICAL_OFFSET
   

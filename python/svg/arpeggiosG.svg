@@ -3600,7 +3600,7 @@
         text-anchor:middle;
         "
       >
-      chromatic scale
+      G chromatic scale
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -6160,7 +6160,7 @@
         text-anchor:middle;
         "
       >
-      major scale
+      G major scale
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -8769,7 +8769,7 @@
         text-anchor:middle;
         "
       >
-      minor scale
+      G minor scale
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -10684,7 +10684,7 @@
         text-anchor:middle;
         "
       >
-      X7
+      G7
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -12599,7 +12599,7 @@
         text-anchor:middle;
         "
       >
-      Xmaj7
+      Gmaj7
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -14514,7 +14514,7 @@
         text-anchor:middle;
         "
       >
-      Xm7
+      Gm7
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -16415,7 +16415,7 @@
         text-anchor:middle;
         "
       >
-      Xm7b5
+      Gm7b5
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -18336,7 +18336,7 @@
         text-anchor:middle;
         "
       >
-      Xsus2
+      Gsus2
     </text>
     <g transform="translate(0,0) rotate(0.0) scale( 1.00 , 1.00 )">
       <ellipse
@@ -20118,7 +20118,7 @@
         text-anchor:middle;
         "
       >
-      Xsus4
+      Gsus4
     </text>
   </g>
 </svg>
