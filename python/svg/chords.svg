@@ -326,6 +326,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -398,6 +412,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(87,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -614,6 +639,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -647,6 +686,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -705,6 +758,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -727,6 +794,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -815,6 +896,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -859,6 +951,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(112,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="150"
         x2="150"
@@ -1238,6 +1344,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -1384,6 +1504,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -1469,6 +1603,17 @@
           fill-opacity:1.00;
           "
         />
+      <g transform="translate(212,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -1504,6 +1649,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -1592,6 +1751,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -1683,6 +1856,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -1705,6 +1892,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -1727,6 +1928,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -1796,6 +2011,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -2198,6 +2424,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -2381,6 +2618,20 @@
           fill-opacity:1.00;
           "
         />
+      <g transform="translate(212,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -2416,6 +2667,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -2449,6 +2714,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(87,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="125"
         x2="125"
@@ -2529,6 +2808,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -2617,6 +2910,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -2661,6 +2968,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -2730,6 +3051,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
     </g>
     <text
       x="0"
@@ -3110,6 +3445,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -3268,6 +3617,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -3350,6 +3710,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -3441,6 +3812,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -3510,6 +3895,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -3554,6 +3953,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -3642,6 +4055,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
     </g>
     <text
       x="0"
@@ -3974,6 +4401,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -4046,6 +4484,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(87,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -4205,6 +4657,20 @@
           fill-opacity:1.00;
           "
         />
+      <g transform="translate(212,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -4262,6 +4728,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -4273,6 +4753,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(87,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="125"
         x2="125"
@@ -4372,6 +4866,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -4463,6 +4968,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -4507,6 +5026,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(112,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="150"
         x2="150"
@@ -4886,6 +5419,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -5032,6 +5579,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -5117,6 +5675,20 @@
           fill-opacity:1.00;
           "
         />
+      <g transform="translate(212,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -5152,6 +5724,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -5243,6 +5826,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -5323,6 +5920,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(112,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="150"
         x2="150"
@@ -5356,6 +5967,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -5444,6 +6066,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -5944,6 +6580,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -6004,6 +6654,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -6064,6 +6728,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -6144,6 +6822,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(162,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="200"
         x2="200"
@@ -6232,6 +6921,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(112,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="150"
         x2="150"
@@ -6265,6 +6968,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -6345,6 +7062,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(112,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="150"
         x2="150"
@@ -6378,6 +7109,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(212,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
     </g>
     <text
       x="0"
@@ -6710,6 +7452,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -6856,6 +7612,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -6941,6 +7711,17 @@
           fill-opacity:1.00;
           "
         />
+      <g transform="translate(212,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -6976,6 +7757,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -7064,6 +7859,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -7155,6 +7964,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -7177,6 +8000,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -7199,6 +8036,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -7268,6 +8119,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -7646,6 +8508,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(37,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -7853,6 +8726,20 @@
           fill-opacity:1.00;
           "
         />
+      <g transform="translate(212,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -7888,6 +8775,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -7921,6 +8822,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(87,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="125"
         x2="125"
@@ -7979,6 +8894,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(212,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -8001,6 +8927,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -8089,6 +9029,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -8133,6 +9087,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -8202,6 +9170,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
     </g>
     <text
       x="0"
@@ -8558,6 +9540,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(37,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -8740,6 +9736,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -8822,6 +9829,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -8891,6 +9909,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(212,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -8913,6 +9945,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -8982,6 +10028,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -9026,6 +10086,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -9114,6 +10188,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
     </g>
     <text
       x="0"
@@ -9446,6 +10534,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -9652,6 +10751,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -9677,6 +10790,20 @@
           fill-opacity:1.00;
           "
         />
+      <g transform="translate(212,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -9734,6 +10861,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -9803,6 +10944,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -9891,6 +11043,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -9935,6 +11101,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -10004,6 +11184,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -10358,6 +11552,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -10504,6 +11712,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -10589,6 +11808,20 @@
           fill-opacity:1.00;
           "
         />
+      <g transform="translate(212,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -10624,6 +11857,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -10715,6 +11959,34 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
+      <g transform="translate(212,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -10784,6 +12056,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(87,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="125"
         x2="125"
@@ -10828,6 +12114,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -10916,6 +12213,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(137,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="175"
         x2="175"
@@ -11294,6 +12605,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(37,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -11476,6 +12801,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -11536,6 +12875,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -11558,6 +12911,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -11624,6 +12991,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(212,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -11646,6 +13027,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -11737,6 +13129,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -11781,6 +13187,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -11850,6 +13270,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
     </g>
     <text
       x="0"
@@ -12304,6 +13735,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(112,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -12388,6 +13830,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,0) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <text
         x="0"
         y="0"
@@ -12470,6 +13926,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="5.0"
+          ry="5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -12539,6 +14009,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,25) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="0"
         x2="225"
@@ -12561,6 +14045,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(12,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="50"
         x2="50"
@@ -12583,6 +14081,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(62,50) rotate(0.0) scale( 1.00 , 1.00 )">
+        <rect
+          width="10"
+          height="10"
+          x="-5.0"
+          y="-5.0"
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="100"
         x2="100"
@@ -12682,6 +14194,17 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(37,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <polygon
+          points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
+          style="
+            fill:white;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
       <line
         x1="75"
         x2="75"
@@ -12762,6 +14285,20 @@
           stroke-opacity:1.0;
           "
         />
+      <g transform="translate(187,75) rotate(0.0) scale( 1.00 , 1.00 )">
+        <ellipse
+          cx="0"
+          cy="0"
+          rx="3"
+          ry="3"
+          style="
+            fill:black;
+            stroke:black;
+            stroke-width:1;
+            fill-opacity:1.00;
+            "
+          />
+      </g>
     </g>
     <text
       x="0"
