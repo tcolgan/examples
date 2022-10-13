@@ -95,13 +95,6 @@ for idx in range(len(fret_arrays_all)) :
                                key_text = key_idx ))
 
 
-#    dwg.add( svgFretboard( xloc + FRETBOARD_OFFSET ,
-#                           yloc - diameter ,
-#                           NUMBER_FRETS ,
-#                           key.makeChordMatrix( frets ) ,
-#                          ))
-
-
     dwg.add( svgFretboard( xloc + FRETBOARD_OFFSET ,
                            yloc - diameter ,
                            NUMBER_FRETS ,
@@ -109,6 +102,13 @@ for idx in range(len(fret_arrays_all)) :
                            color = "lightgrey"
                           ))
                           
+    dwg.add( svgFretboard( xloc + FRETBOARD_OFFSET ,
+                           yloc - diameter ,
+                           NUMBER_FRETS ,
+                           key.makeChordMatrix( frets ) ,
+                           showAll = False ,
+                          ))
+
                           
     text = key_idx + text[1:] + " (" + suffix[ array_idx ] +")"
     dwg.add( svgText( xloc - text_offset , yloc , text , rotate=270.0 , fontSize = 15 ) )

@@ -20,7 +20,7 @@ DOT_RADIUS = 3
 
 class svgFretboard(svgGroup):
   
-  def __init__(self,xloc,yloc , number_frets , note_matrix = [[],[],[],[]] , color = "black" ):
+  def __init__(self,xloc,yloc , number_frets , note_matrix = [[],[],[],[]] , color = "black" , showAll = True ):
 
     super().__init__()
 
@@ -35,26 +35,29 @@ class svgFretboard(svgGroup):
     dots = [0,0,0,1,0,1,0,1,0,0,1,0,2,0,0,1,0,1,0,1,0,0]
     for string in range( NUMBER_STRINGS ):
       notes = note_matrix[ string ]
-      self.add( svgLine(  0 , yloc , width , yloc ) )
+      if showAll:
+        self.add( svgLine(  0 , yloc , width , yloc ) )
       xloc = DEFAULT_FRET_SEPARATION
       for fret in range( number_frets ) :
         note = notes[ fret ]
-        if fret != number_frets - 1 :
-          self.add( svgLine(  xloc , 0 , xloc , height ) )
+        if showAll:
+          if fret != number_frets - 1 :
+            self.add( svgLine(  xloc , 0 , xloc , height ) )
         if note >= 0 :
           self.add( svgPitch( xloc - DEFAULT_FRET_SEPARATION / 2 , yloc , note , color = color ))
 
-        if string == 0 :
-          xloc_dot = xloc - DEFAULT_FRET_SEPARATION * .5
-          yloc_dot = yloc + DEFAULT_STRING_SEPARATION * 1.5
-          yloc_text = yloc - DEFAULT_FRET_SEPARATION * .3
-          self.add( svgText( xloc_dot , yloc_text , str( fret ) ))
-          if dots[fret] == 1 :
-            self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot )
-          elif dots[fret] == 2 :
-            yoffset = DEFAULT_STRING_SEPARATION * .25
-            self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot - yoffset )
-            self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot + yoffset )
+        if showAll:
+          if string == 0 :
+            xloc_dot = xloc - DEFAULT_FRET_SEPARATION * .5
+            yloc_dot = yloc + DEFAULT_STRING_SEPARATION * 1.5
+            yloc_text = yloc - DEFAULT_FRET_SEPARATION * .3
+            self.add( svgText( xloc_dot , yloc_text , str( fret ) ))
+            if dots[fret] == 1 :
+              self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot )
+            elif dots[fret] == 2 :
+              yoffset = DEFAULT_STRING_SEPARATION * .25
+              self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot - yoffset )
+              self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot + yoffset )
           
         xloc += DEFAULT_FRET_SEPARATION
             
