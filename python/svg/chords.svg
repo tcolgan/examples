@@ -334,7 +334,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -416,8 +416,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -551,7 +551,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -647,7 +647,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -693,8 +693,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -730,7 +730,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -765,8 +765,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -802,7 +802,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -845,8 +845,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -900,8 +900,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -959,7 +959,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1005,8 +1005,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1352,7 +1352,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1437,8 +1437,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1512,7 +1512,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1607,8 +1607,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1657,7 +1657,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1700,8 +1700,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1759,7 +1759,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1817,7 +1817,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1863,8 +1863,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1900,7 +1900,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1935,8 +1935,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -1972,7 +1972,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2015,8 +2015,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2429,7 +2429,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2527,7 +2527,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2625,8 +2625,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2675,7 +2675,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2721,8 +2721,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2758,7 +2758,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2816,7 +2816,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2871,7 +2871,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2918,7 +2918,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -2976,7 +2976,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3022,8 +3022,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3059,7 +3059,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3453,7 +3453,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3491,7 +3491,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3622,7 +3622,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3715,7 +3715,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3762,7 +3762,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3820,7 +3820,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3878,7 +3878,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3903,7 +3903,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -3961,7 +3961,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4016,7 +4016,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4063,7 +4063,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4406,7 +4406,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4492,7 +4492,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4626,7 +4626,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4665,7 +4665,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4736,7 +4736,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4761,7 +4761,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4816,7 +4816,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4871,7 +4871,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4918,7 +4918,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -4976,7 +4976,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5034,7 +5034,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5059,7 +5059,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5426,8 +5426,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5489,7 +5489,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5583,8 +5583,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5682,8 +5682,8 @@
           rx="5.0"
           ry="5.0"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5728,8 +5728,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5775,8 +5775,8 @@
           rx="5.0"
           ry="5.0"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5833,8 +5833,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5891,8 +5891,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5928,7 +5928,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -5971,8 +5971,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6026,8 +6026,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6073,8 +6073,8 @@
           rx="5.0"
           ry="5.0"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6490,7 +6490,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6587,8 +6587,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6662,7 +6662,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6735,8 +6735,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6772,7 +6772,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6827,7 +6827,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6882,7 +6882,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6929,7 +6929,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -6975,8 +6975,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7033,8 +7033,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7070,7 +7070,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7114,7 +7114,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7460,7 +7460,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7545,8 +7545,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7620,7 +7620,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7715,8 +7715,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7765,7 +7765,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7808,8 +7808,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7867,7 +7867,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7925,7 +7925,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -7971,8 +7971,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8008,7 +8008,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8043,8 +8043,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8080,7 +8080,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8123,8 +8123,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8512,8 +8512,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8635,7 +8635,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8733,8 +8733,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8783,7 +8783,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8829,8 +8829,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8866,7 +8866,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8898,8 +8898,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8935,7 +8935,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -8978,8 +8978,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9037,7 +9037,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9095,7 +9095,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9141,8 +9141,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9178,7 +9178,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9547,8 +9547,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9610,7 +9610,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9741,7 +9741,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9834,7 +9834,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9881,7 +9881,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9916,8 +9916,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9953,7 +9953,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -9999,8 +9999,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10036,7 +10036,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10094,7 +10094,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10149,7 +10149,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10196,7 +10196,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10539,7 +10539,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10625,7 +10625,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10759,7 +10759,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10798,7 +10798,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10869,7 +10869,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10894,7 +10894,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -10949,7 +10949,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11004,7 +11004,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11051,7 +11051,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11109,7 +11109,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11167,7 +11167,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11192,7 +11192,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11560,7 +11560,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11598,7 +11598,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11717,7 +11717,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11816,7 +11816,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11862,7 +11862,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11909,7 +11909,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11967,7 +11967,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -11981,7 +11981,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12039,7 +12039,7 @@
           ry="3"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12064,7 +12064,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12119,7 +12119,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12174,7 +12174,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12221,7 +12221,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12612,8 +12612,8 @@
           rx="5.0"
           ry="5.0"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12734,8 +12734,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12809,7 +12809,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12882,8 +12882,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12919,7 +12919,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12962,8 +12962,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -12998,8 +12998,8 @@
           rx="5.0"
           ry="5.0"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13031,8 +13031,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13078,8 +13078,8 @@
           rx="5.0"
           ry="5.0"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13136,8 +13136,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13194,8 +13194,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13231,7 +13231,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13274,8 +13274,8 @@
         <polygon
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13621,7 +13621,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13740,7 +13740,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13838,7 +13838,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13934,7 +13934,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -13980,8 +13980,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -14017,7 +14017,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -14052,8 +14052,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -14089,7 +14089,7 @@
           y="-5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -14144,7 +14144,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -14199,7 +14199,7 @@
           points="0 , -5.0  5.866025403784438 , 5.5  -5.866025403784438 , 5.5  "
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -14246,7 +14246,7 @@
           ry="5.0"
           style="
             fill:white;
-            stroke:black;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "
@@ -14292,8 +14292,8 @@
           rx="3"
           ry="3"
           style="
-            fill:black;
-            stroke:black;
+            fill:lightgrey;
+            stroke:lightgrey;
             stroke-width:1;
             fill-opacity:1.00;
             "

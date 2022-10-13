@@ -40,13 +40,6 @@ CONSTELLATION_OFFSET = 0.4 * PIXELS_PER_INCH
 CIRCLE_SCALE = .8
 
 
-CHORD_7      = [0,4,7,10]
-CHORD_MAJ7   = [0,4,7,11]
-CHORD_MIN7B5 = [0,3,6,10]
-CHORD_MIN7   = [0,3,7,10]
-
-
-
 fret_arrays_all = [
    [
      ( "Em7"    , 1 ) ,
@@ -71,7 +64,7 @@ fret_arrays_all = [
 
 
 suffix = ["vi7" , "ii7" , "V7" , "Imaj7" , "IVmaj7" , "vii7b5" , "iii7" ]
-chord_pitches = [ CHORD_MIN7 , CHORD_MIN7 , CHORD_7 , CHORD_MAJ7 ,  CHORD_MAJ7 , CHORD_MIN7B5 , CHORD_MIN7 ]
+
 
 def parse(val):
   if val[1] == "#" or val[1] == "b" :
@@ -113,6 +106,7 @@ for idx in range(len(fret_arrays_all)) :
                            yloc - diameter ,
                            NUMBER_FRETS ,
                            key.makeMatrix( pitches ) ,
+                           color = "lightgrey"
                           ))
                           
                           

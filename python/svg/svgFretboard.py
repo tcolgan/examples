@@ -20,7 +20,7 @@ DOT_RADIUS = 3
 
 class svgFretboard(svgGroup):
   
-  def __init__(self,xloc,yloc , number_frets , note_matrix = [[],[],[],[]] ):
+  def __init__(self,xloc,yloc , number_frets , note_matrix = [[],[],[],[]] , color = "black" ):
 
     super().__init__()
 
@@ -42,7 +42,7 @@ class svgFretboard(svgGroup):
         if fret != number_frets - 1 :
           self.add( svgLine(  xloc , 0 , xloc , height ) )
         if note >= 0 :
-          self.add( svgPitch( xloc - DEFAULT_FRET_SEPARATION / 2 , yloc , note ))
+          self.add( svgPitch( xloc - DEFAULT_FRET_SEPARATION / 2 , yloc , note , color = color ))
 
         if string == 0 :
           xloc_dot = xloc - DEFAULT_FRET_SEPARATION * .5
