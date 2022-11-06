@@ -19,10 +19,14 @@ HEIGHT_FONT_12 = 12 * FONT_TO_PIXELS
 
 VERTICAL_OFFSET = 1.2 * PIXELS_PER_INCH
 
-NUMBER_FRETS = 9
+NUMBER_FRETS = 13
 
-width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
-height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
+width_inches  =  10.0
+#width_inches  =  8.5
+height_inches =  11.0
+
+width  =  width_inches  * PIXELS_PER_INCH - 2 * HBORDER
+height =  height_inches * PIXELS_PER_INCH - 2 * VBORDER
 
 HORIZONTAL_OFFSET = width/2
 
@@ -63,7 +67,7 @@ fret_arrays_all = [
 
 
 
-suffix = ["vi7" , "ii7" , "V7" , "Imaj7" , "IVmaj7" , "vii7b5" , "iii7" ]
+suffix = ["vi7" , "ii7" , "V7" , "Imaj7" , "IVmaj7" , "vii7b5" , "III7" ]
 
 
 def parse(val):

@@ -55,7 +55,7 @@ class svgFretboard(svgGroup):
             if dots[fret] == 1 :
               self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot )
             elif dots[fret] == 2 :
-              yoffset = DEFAULT_STRING_SEPARATION * .25
+              yoffset = DEFAULT_STRING_SEPARATION * .2
               self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot - yoffset )
               self.addCircle( DOT_RADIUS , xloc_dot , yloc_dot + yoffset )
           

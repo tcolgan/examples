@@ -29,10 +29,12 @@ NUMBER_FRETS = 20
 
 CIRCLE_SCALE = .8
 
+width_inches  =  10.0
+#width_inches  =  8.5
+height_inches =  15.0
 
-
-width  =  8.5 * PIXELS_PER_INCH - 2 * HBORDER
-height = 11.0 * PIXELS_PER_INCH - 2 * VBORDER
+width  =  width_inches  * PIXELS_PER_INCH - 2 * HBORDER
+height =  height_inches * PIXELS_PER_INCH - 2 * VBORDER
 
 TITLE_OFFSET_X = PIXELS_PER_INCH * .02
 TITLE_OFFSET_Y = PIXELS_PER_INCH * .2

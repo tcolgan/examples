@@ -1,0 +1,10 @@
+software todo
+
+refactor
+. move directory
+. merge chord & chordsLeaves
+  . separate file for chord arrays
+. rename files
+  . no svg prefix in root directory
+. subdirectory for music files
+  . subdirectory for output files
