@@ -21,14 +21,14 @@ VERTICAL_OFFSET = 1.2 * PIXELS_PER_INCH
 
 NUMBER_FRETS = 13
 
-width_inches  =  10.0
+width_inches  =  30.0
 #width_inches  =  8.5
 height_inches =  11.0
 
 width  =  width_inches  * PIXELS_PER_INCH - 2 * HBORDER
 height =  height_inches * PIXELS_PER_INCH - 2 * VBORDER
 
-HORIZONTAL_OFFSET = width/2
+HORIZONTAL_OFFSET = width/6
 
 dwg = svgDwg( width , height )
 
@@ -62,7 +62,43 @@ fret_arrays_all = [
      ( "Fmaj7"  , 1 ) ,
      ( "Bm7b5"  , 1 ) ,
      ( "E7"     , 3 ) ,
-   ]
+   ],
+   [
+     ( "F#m7"    , 1 ) ,
+     ( "Bm7"    , 0 ) ,
+     ( "E7"     , 1 ) ,
+     ( "Amaj7"  , 1 ) ,
+     ( "Dmaj7"  , 2 ) ,
+     ( "G#m7b5" , 0 ) ,
+     ( "C7"     , 1 ) ,
+   ],
+   [
+     ( "Bm7"    , 0 ) ,
+     ( "Em7"    , 1 ) ,
+     ( "A7"     , 0 ) ,
+     ( "Dmaj7"  , 2 ) ,
+     ( "Gmaj7"  , 1 ) ,
+     ( "C#m7b5"  , 1 ) ,
+     ( "F#7"     , 3 ) ,
+   ],
+   [
+     ( "G#m7"    , 1 ) ,
+     ( "C#m7"    , 0 ) ,
+     ( "F#7"     , 1 ) ,
+     ( "Bmaj7"  , 1 ) ,
+     ( "Emaj7"  , 2 ) ,
+     ( "A#m7b5" , 0 ) ,
+     ( "D7"     , 1 ) ,
+   ],
+   [
+     ( "C#m7"    , 0 ) ,
+     ( "F#m7"    , 1 ) ,
+     ( "B7"     , 0 ) ,
+     ( "Emaj7"  , 2 ) ,
+     ( "Amaj7"  , 1 ) ,
+     ( "D#m7b5"  , 1 ) ,
+     ( "A#7"     , 3 ) ,
+   ],
   ]
 
 
