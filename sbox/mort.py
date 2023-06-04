@@ -14,7 +14,8 @@ data = [
 remaining = 100.0
 for (min_age,max_age,number_2020,rate_2020,number_2021,rate_2021) in data:
 	for age in range( min_age , max_age + 1 ) :
-		rate = rate_2020
+		rate = rate_2021
 		remaining = remaining - remaining * rate / 100000
 		print( f"age = {age:>4}  |  rate (%) = {rate/1000:>6.3f}  |  remaining = {remaining:>5.2f}" )
-		# age = 100  | rate = 15210.9 | remaining = 2.8283782544136358
+	
+	
