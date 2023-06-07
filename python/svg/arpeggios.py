@@ -31,7 +31,7 @@ CIRCLE_SCALE = .8
 
 width_inches  =  10.0
 #width_inches  =  8.5
-height_inches =  15.0
+height_inches =  18.0
 
 width  =  width_inches  * PIXELS_PER_INCH - 2 * HBORDER
 height =  height_inches * PIXELS_PER_INCH - 2 * VBORDER
